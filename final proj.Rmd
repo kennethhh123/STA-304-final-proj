@@ -76,11 +76,11 @@ By definition, Multilevel regression with post stratification is a statistical t
 Here is the logistic equation of the model:
 $$ log(p/1-p) = \beta_0 +\beta_1  x_{age} + \beta_2 x_{sex} + \beta_3 x_{province}+ \beta_4 x_{health}$$
 Which each notation was defined below:
-$p$ representing the proportion of voters supports the left wing,
-$\beta_0$ representing the the intercept of the model,
-$\beta_1$ representing the log odds based on age,
-$\beta_2$ representing the log odds based on sex,
-$\beta_3$ representing the log odds based on province,
+$p$ representing the proportion of voters supports the left wing,\
+$\beta_0$ representing the the intercept of the model,\
+$\beta_1$ representing the log odds based on age,\
+$\beta_2$ representing the log odds based on sex,\
+$\beta_3$ representing the log odds based on province,\
 $\beta_4$ representing the log odds based on health.
 
 In regards to the variables in the model, chose variable "Province" rather than similar variable "Region" can let the model become more significance. Using "Age" rather than "Age_group" can also make model become more significance as "Age" is numerical variable. 
