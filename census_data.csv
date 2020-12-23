@@ -1,0 +1,4234 @@
+age,sex,province,health,n
+15,Female,AB,Excellent,2
+15,Female,AB,Very good,1
+15,Female,BC,Excellent,2
+15,Female,BC,Fair,2
+15,Female,BC,Very good,2
+15,Female,MB,Excellent,1
+15,Female,MB,Fair,4
+15,Female,MB,Very good,2
+15,Female,NB,Excellent,1
+15,Female,NL,Fair,1
+15,Female,NL,Very good,3
+15,Female,NS,Excellent,2
+15,Female,NS,Fair,1
+15,Female,NS,Very good,1
+15,Female,ON,Excellent,9
+15,Female,ON,Fair,3
+15,Female,ON,Very good,9
+15,Female,PE,Excellent,1
+15,Female,QC,Excellent,1
+15,Female,QC,Fair,4
+15,Female,QC,Very good,4
+15,Female,SK,Very good,2
+15,Male,AB,Very good,1
+15,Male,BC,Excellent,5
+15,Male,BC,Fair,2
+15,Male,BC,Very good,2
+15,Male,MB,Excellent,2
+15,Male,NB,Excellent,1
+15,Male,NB,Fair,2
+15,Male,NB,Very good,2
+15,Male,NS,Excellent,3
+15,Male,NS,Fair,2
+15,Male,ON,Excellent,6
+15,Male,ON,Fair,5
+15,Male,ON,Very good,9
+15,Male,PE,Fair,1
+15,Male,PE,Very good,2
+15,Male,QC,Excellent,4
+15,Male,QC,Fair,2
+15,Male,QC,Very good,6
+15,Male,SK,Excellent,4
+15,Male,SK,Fair,1
+15,Male,SK,Very good,1
+16,Female,AB,Excellent,3
+16,Female,AB,Fair,1
+16,Female,AB,Very good,3
+16,Female,BC,Excellent,4
+16,Female,BC,Fair,1
+16,Female,BC,Very good,2
+16,Female,MB,Excellent,1
+16,Female,MB,Fair,3
+16,Female,NB,Excellent,3
+16,Female,NB,Fair,2
+16,Female,NB,Very good,3
+16,Female,NL,Excellent,1
+16,Female,NL,Very good,2
+16,Female,NS,Fair,2
+16,Female,ON,Excellent,7
+16,Female,ON,Fair,4
+16,Female,ON,Very good,7
+16,Female,PE,Fair,1
+16,Female,PE,Very good,3
+16,Female,QC,Excellent,7
+16,Female,QC,Fair,2
+16,Female,QC,Very good,10
+16,Female,SK,Excellent,2
+16,Female,SK,Fair,4
+16,Male,AB,Excellent,4
+16,Male,AB,Fair,1
+16,Male,AB,Very good,3
+16,Male,BC,Excellent,2
+16,Male,BC,Fair,2
+16,Male,BC,Very good,6
+16,Male,MB,Excellent,1
+16,Male,NB,Fair,1
+16,Male,NB,Very good,3
+16,Male,NL,Excellent,2
+16,Male,NL,Very good,4
+16,Male,NS,Excellent,1
+16,Male,NS,Fair,2
+16,Male,ON,Excellent,8
+16,Male,ON,Fair,5
+16,Male,ON,Very good,8
+16,Male,PE,Fair,2
+16,Male,PE,Very good,2
+16,Male,QC,Excellent,3
+16,Male,QC,Fair,3
+16,Male,QC,Very good,10
+16,Male,SK,Fair,2
+16,Male,SK,Very good,3
+17,Female,AB,Excellent,2
+17,Female,AB,Very good,4
+17,Female,BC,Excellent,3
+17,Female,BC,Fair,3
+17,Female,BC,Very good,1
+17,Female,MB,Excellent,3
+17,Female,MB,Fair,1
+17,Female,MB,Very good,2
+17,Female,NB,Fair,1
+17,Female,NB,Very good,3
+17,Female,NL,Fair,2
+17,Female,NL,Very good,1
+17,Female,NS,Excellent,1
+17,Female,NS,Very good,2
+17,Female,ON,Excellent,10
+17,Female,ON,Fair,6
+17,Female,ON,Very good,14
+17,Female,PE,Fair,2
+17,Female,PE,Very good,1
+17,Female,QC,Excellent,2
+17,Female,QC,Fair,3
+17,Female,QC,Very good,6
+17,Female,SK,Excellent,1
+17,Female,SK,Fair,2
+17,Male,AB,Excellent,1
+17,Male,AB,Fair,2
+17,Male,AB,Very good,2
+17,Male,BC,Excellent,1
+17,Male,BC,Fair,3
+17,Male,BC,Very good,4
+17,Male,MB,Very good,1
+17,Male,NB,Excellent,2
+17,Male,NB,Fair,1
+17,Male,NB,Very good,2
+17,Male,NL,Excellent,4
+17,Male,NL,Very good,2
+17,Male,NS,Excellent,1
+17,Male,ON,Excellent,10
+17,Male,ON,Fair,6
+17,Male,ON,Very good,12
+17,Male,PE,Fair,1
+17,Male,PE,Very good,1
+17,Male,QC,Excellent,3
+17,Male,QC,Fair,3
+17,Male,QC,Very good,4
+17,Male,SK,Excellent,2
+17,Male,SK,Fair,2
+17,Male,SK,Very good,4
+18,Female,AB,Excellent,2
+18,Female,AB,Fair,4
+18,Female,AB,Very good,2
+18,Female,BC,Excellent,4
+18,Female,BC,Fair,4
+18,Female,BC,Very good,3
+18,Female,MB,Excellent,1
+18,Female,MB,Fair,1
+18,Female,MB,Very good,1
+18,Female,NB,Excellent,1
+18,Female,NB,Fair,2
+18,Female,NL,Excellent,1
+18,Female,NL,Very good,2
+18,Female,NS,Fair,1
+18,Female,ON,Excellent,4
+18,Female,ON,Fair,4
+18,Female,ON,Very good,9
+18,Female,PE,Fair,1
+18,Female,QC,Excellent,3
+18,Female,QC,Fair,3
+18,Female,QC,Very good,2
+18,Female,SK,Excellent,1
+18,Female,SK,Fair,2
+18,Female,SK,Very good,2
+18,Male,AB,Excellent,3
+18,Male,AB,Fair,3
+18,Male,AB,Very good,1
+18,Male,BC,Excellent,2
+18,Male,BC,Fair,5
+18,Male,BC,Very good,6
+18,Male,MB,Excellent,1
+18,Male,MB,Very good,1
+18,Male,NB,Excellent,1
+18,Male,NB,Fair,3
+18,Male,NL,Excellent,1
+18,Male,NL,Fair,1
+18,Male,NL,Poor,1
+18,Male,NL,Very good,2
+18,Male,NS,Excellent,1
+18,Male,NS,Fair,2
+18,Male,NS,Very good,2
+18,Male,ON,Excellent,5
+18,Male,ON,Fair,2
+18,Male,ON,Very good,7
+18,Male,PE,Excellent,2
+18,Male,PE,Very good,1
+18,Male,QC,Excellent,5
+18,Male,QC,Fair,3
+18,Male,QC,Very good,5
+18,Male,SK,Excellent,1
+18,Male,SK,Fair,1
+18,Male,SK,Very good,1
+19,Female,AB,Excellent,1
+19,Female,AB,Fair,1
+19,Female,AB,Very good,5
+19,Female,BC,Fair,1
+19,Female,BC,Very good,2
+19,Female,MB,Excellent,4
+19,Female,MB,Very good,2
+19,Female,NB,Fair,1
+19,Female,NB,Very good,4
+19,Female,NL,Excellent,1
+19,Female,NL,Fair,1
+19,Female,NL,Very good,1
+19,Female,NS,Excellent,1
+19,Female,NS,Fair,1
+19,Female,ON,Excellent,4
+19,Female,ON,Fair,5
+19,Female,ON,Poor,1
+19,Female,ON,Very good,14
+19,Female,PE,Excellent,1
+19,Female,PE,Very good,1
+19,Female,QC,Excellent,2
+19,Female,QC,Fair,5
+19,Female,QC,Very good,6
+19,Female,SK,Fair,2
+19,Female,SK,Very good,2
+19,Male,AB,Excellent,2
+19,Male,AB,Fair,4
+19,Male,AB,Very good,2
+19,Male,BC,Excellent,3
+19,Male,BC,Fair,4
+19,Male,BC,Very good,4
+19,Male,MB,Excellent,1
+19,Male,MB,Fair,3
+19,Male,MB,Very good,2
+19,Male,NB,Fair,1
+19,Male,NB,Very good,1
+19,Male,NL,Fair,1
+19,Male,NL,Very good,1
+19,Male,NS,Excellent,1
+19,Male,NS,Fair,2
+19,Male,NS,Very good,1
+19,Male,ON,Excellent,8
+19,Male,ON,Fair,5
+19,Male,ON,Very good,6
+19,Male,ON,NA,1
+19,Male,PE,Excellent,2
+19,Male,PE,Fair,1
+19,Male,PE,Very good,2
+19,Male,QC,Excellent,6
+19,Male,QC,Fair,4
+19,Male,QC,Very good,2
+19,Male,SK,Excellent,2
+19,Male,SK,Fair,1
+19,Male,SK,Very good,2
+20,Female,AB,Excellent,2
+20,Female,AB,Fair,1
+20,Female,AB,Very good,1
+20,Female,BC,Excellent,2
+20,Female,BC,Fair,4
+20,Female,BC,Very good,2
+20,Female,MB,Fair,1
+20,Female,NL,Excellent,1
+20,Female,NL,Fair,3
+20,Female,NL,Very good,3
+20,Female,NS,Excellent,2
+20,Female,NS,Fair,2
+20,Female,NS,Very good,2
+20,Female,ON,Excellent,2
+20,Female,ON,Fair,5
+20,Female,ON,Very good,10
+20,Female,QC,Excellent,5
+20,Female,QC,Fair,2
+20,Female,QC,Very good,7
+20,Female,SK,Excellent,1
+20,Female,SK,Fair,1
+20,Male,AB,Fair,3
+20,Male,AB,Very good,4
+20,Male,BC,Fair,2
+20,Male,BC,Very good,5
+20,Male,MB,Fair,1
+20,Male,MB,Very good,2
+20,Male,NB,Very good,2
+20,Male,NL,Excellent,1
+20,Male,NL,Very good,1
+20,Male,NS,Fair,4
+20,Male,NS,Very good,3
+20,Male,ON,Excellent,6
+20,Male,ON,Fair,5
+20,Male,ON,Poor,1
+20,Male,ON,Very good,13
+20,Male,PE,Fair,2
+20,Male,PE,Very good,1
+20,Male,QC,Excellent,4
+20,Male,QC,Fair,4
+20,Male,QC,Very good,8
+20,Male,SK,Excellent,2
+20,Male,SK,Fair,3
+21,Female,AB,Excellent,1
+21,Female,AB,Fair,3
+21,Female,AB,Very good,1
+21,Female,BC,Fair,1
+21,Female,BC,Very good,1
+21,Female,MB,Excellent,2
+21,Female,MB,Fair,2
+21,Female,MB,Very good,3
+21,Female,NB,Fair,2
+21,Female,NB,Very good,3
+21,Female,NL,Fair,2
+21,Female,NL,Very good,1
+21,Female,NS,Fair,1
+21,Female,NS,Poor,1
+21,Female,NS,Very good,1
+21,Female,ON,Excellent,5
+21,Female,ON,Fair,11
+21,Female,ON,Poor,1
+21,Female,ON,Very good,6
+21,Female,PE,Fair,2
+21,Female,PE,Very good,1
+21,Female,QC,Excellent,6
+21,Female,QC,Fair,4
+21,Female,QC,Very good,6
+21,Female,SK,Fair,1
+21,Female,SK,Very good,1
+21,Male,AB,Excellent,1
+21,Male,AB,Fair,7
+21,Male,BC,Excellent,3
+21,Male,BC,Fair,4
+21,Male,BC,Very good,2
+21,Male,MB,Excellent,2
+21,Male,MB,Fair,2
+21,Male,MB,Very good,4
+21,Male,NB,Excellent,2
+21,Male,NB,Fair,2
+21,Male,NS,Excellent,2
+21,Male,NS,Fair,1
+21,Male,NS,Very good,2
+21,Male,ON,Excellent,11
+21,Male,ON,Fair,8
+21,Male,ON,Very good,9
+21,Male,PE,Very good,1
+21,Male,QC,Excellent,3
+21,Male,QC,Fair,4
+21,Male,QC,Very good,2
+21,Male,QC,NA,1
+21,Male,SK,Excellent,1
+21,Male,SK,Fair,2
+21,Male,SK,Very good,1
+22,Female,AB,Excellent,1
+22,Female,AB,Fair,2
+22,Female,AB,Poor,1
+22,Female,AB,Very good,6
+22,Female,BC,Excellent,3
+22,Female,BC,Fair,4
+22,Female,BC,Very good,4
+22,Female,MB,Excellent,1
+22,Female,MB,Fair,1
+22,Female,NB,Excellent,1
+22,Female,NB,Fair,1
+22,Female,NB,Very good,3
+22,Female,NL,Excellent,1
+22,Female,NL,Fair,2
+22,Female,NL,Very good,3
+22,Female,NS,Excellent,1
+22,Female,NS,Fair,1
+22,Female,NS,Very good,5
+22,Female,ON,Excellent,4
+22,Female,ON,Fair,12
+22,Female,ON,Poor,1
+22,Female,ON,Very good,12
+22,Female,PE,Fair,1
+22,Female,PE,Very good,2
+22,Female,QC,Excellent,3
+22,Female,QC,Fair,7
+22,Female,QC,Very good,3
+22,Female,SK,Excellent,1
+22,Female,SK,Fair,4
+22,Female,SK,Very good,3
+22,Male,AB,Excellent,2
+22,Male,AB,Fair,4
+22,Male,AB,Very good,2
+22,Male,BC,Excellent,9
+22,Male,BC,Fair,4
+22,Male,BC,Poor,1
+22,Male,BC,Very good,3
+22,Male,MB,Excellent,1
+22,Male,MB,Fair,3
+22,Male,MB,Very good,3
+22,Male,NB,Fair,1
+22,Male,NB,Very good,1
+22,Male,NL,Excellent,2
+22,Male,NL,Fair,2
+22,Male,NL,Very good,1
+22,Male,NS,Excellent,1
+22,Male,NS,Fair,3
+22,Male,NS,Very good,3
+22,Male,ON,Excellent,9
+22,Male,ON,Fair,7
+22,Male,ON,Very good,12
+22,Male,PE,Fair,3
+22,Male,QC,Excellent,5
+22,Male,QC,Fair,7
+22,Male,QC,Very good,5
+22,Male,SK,Excellent,1
+22,Male,SK,Other,1
+23,Female,AB,Excellent,1
+23,Female,AB,Fair,3
+23,Female,AB,Very good,4
+23,Female,BC,Excellent,1
+23,Female,BC,Fair,4
+23,Female,BC,Very good,6
+23,Female,MB,Excellent,1
+23,Female,MB,Fair,3
+23,Female,MB,Very good,2
+23,Female,NB,Excellent,2
+23,Female,NB,Fair,2
+23,Female,NB,Very good,2
+23,Female,NL,Excellent,1
+23,Female,NL,Fair,1
+23,Female,NL,Very good,3
+23,Female,NS,Fair,1
+23,Female,NS,Very good,3
+23,Female,ON,Excellent,8
+23,Female,ON,Fair,9
+23,Female,ON,Poor,1
+23,Female,ON,Very good,8
+23,Female,PE,Fair,4
+23,Female,PE,Very good,1
+23,Female,QC,Excellent,7
+23,Female,QC,Fair,4
+23,Female,QC,Very good,3
+23,Female,SK,Excellent,1
+23,Female,SK,Fair,2
+23,Female,SK,Very good,2
+23,Male,AB,Excellent,2
+23,Male,AB,Fair,2
+23,Male,AB,Very good,2
+23,Male,BC,Excellent,3
+23,Male,BC,Fair,2
+23,Male,BC,Very good,2
+23,Male,MB,Excellent,2
+23,Male,MB,Fair,1
+23,Male,MB,Poor,1
+23,Male,MB,Very good,2
+23,Male,NB,Excellent,3
+23,Male,NB,Fair,2
+23,Male,NB,Very good,1
+23,Male,NL,Excellent,2
+23,Male,NS,Excellent,1
+23,Male,NS,Fair,1
+23,Male,NS,Very good,3
+23,Male,ON,Excellent,3
+23,Male,ON,Fair,8
+23,Male,ON,Very good,8
+23,Male,PE,Fair,5
+23,Male,PE,Very good,2
+23,Male,QC,Excellent,4
+23,Male,QC,Fair,5
+23,Male,QC,Very good,5
+23,Male,SK,Excellent,2
+23,Male,SK,Fair,3
+23,Male,SK,Very good,1
+24,Female,AB,Excellent,2
+24,Female,AB,Fair,6
+24,Female,AB,Poor,1
+24,Female,AB,Very good,4
+24,Female,BC,Excellent,4
+24,Female,BC,Fair,6
+24,Female,BC,Poor,1
+24,Female,BC,Very good,7
+24,Female,MB,Excellent,1
+24,Female,MB,Fair,4
+24,Female,MB,Very good,3
+24,Female,NB,Excellent,1
+24,Female,NB,Fair,4
+24,Female,NB,Very good,2
+24,Female,NL,Excellent,1
+24,Female,NL,Fair,1
+24,Female,NL,Very good,2
+24,Female,NS,Excellent,2
+24,Female,NS,Fair,3
+24,Female,NS,Poor,1
+24,Female,NS,Very good,4
+24,Female,ON,Excellent,7
+24,Female,ON,Fair,8
+24,Female,ON,Very good,14
+24,Female,ON,NA,1
+24,Female,PE,Fair,1
+24,Female,PE,Very good,2
+24,Female,QC,Excellent,2
+24,Female,QC,Fair,6
+24,Female,QC,Very good,6
+24,Female,SK,Excellent,1
+24,Female,SK,Fair,2
+24,Female,SK,Very good,2
+24,Male,AB,Excellent,6
+24,Male,AB,Fair,2
+24,Male,AB,Very good,1
+24,Male,BC,Fair,3
+24,Male,BC,Very good,8
+24,Male,MB,Excellent,2
+24,Male,MB,Fair,1
+24,Male,MB,Very good,2
+24,Male,NB,Excellent,1
+24,Male,NB,Fair,2
+24,Male,NB,Very good,3
+24,Male,NL,Excellent,1
+24,Male,NL,Fair,2
+24,Male,NL,Very good,4
+24,Male,NS,Excellent,1
+24,Male,NS,Fair,1
+24,Male,NS,Very good,1
+24,Male,ON,Excellent,3
+24,Male,ON,Fair,6
+24,Male,ON,Very good,7
+24,Male,PE,Excellent,1
+24,Male,PE,Fair,1
+24,Male,QC,Excellent,5
+24,Male,QC,Fair,3
+24,Male,QC,Very good,9
+24,Male,SK,Excellent,2
+24,Male,SK,Fair,2
+24,Male,SK,Very good,4
+25,Female,AB,Excellent,2
+25,Female,AB,Fair,7
+25,Female,AB,Very good,4
+25,Female,BC,Excellent,3
+25,Female,BC,Fair,3
+25,Female,BC,Very good,4
+25,Female,BC,NA,1
+25,Female,MB,Excellent,4
+25,Female,MB,Fair,1
+25,Female,MB,Very good,1
+25,Female,NB,Excellent,1
+25,Female,NB,Fair,2
+25,Female,NB,Very good,1
+25,Female,NL,Very good,2
+25,Female,NS,Excellent,1
+25,Female,NS,Fair,2
+25,Female,NS,Very good,1
+25,Female,ON,Excellent,10
+25,Female,ON,Fair,5
+25,Female,ON,Very good,12
+25,Female,PE,Very good,2
+25,Female,QC,Excellent,10
+25,Female,QC,Fair,6
+25,Female,QC,Very good,11
+25,Female,SK,Fair,8
+25,Female,SK,Poor,1
+25,Male,AB,Excellent,2
+25,Male,AB,Fair,6
+25,Male,AB,Very good,3
+25,Male,BC,Excellent,3
+25,Male,BC,Fair,3
+25,Male,BC,Very good,1
+25,Male,BC,NA,1
+25,Male,MB,Excellent,3
+25,Male,MB,Fair,3
+25,Male,MB,Very good,2
+25,Male,NB,Excellent,1
+25,Male,NB,Very good,1
+25,Male,NL,Excellent,1
+25,Male,NL,Fair,1
+25,Male,NL,Very good,3
+25,Male,NS,Excellent,3
+25,Male,NS,Fair,8
+25,Male,NS,Very good,2
+25,Male,ON,Excellent,2
+25,Male,ON,Fair,11
+25,Male,ON,Poor,1
+25,Male,ON,Very good,15
+25,Male,PE,Fair,3
+25,Male,PE,Very good,1
+25,Male,PE,NA,1
+25,Male,QC,Excellent,8
+25,Male,QC,Fair,4
+25,Male,QC,Very good,3
+25,Male,SK,Excellent,2
+25,Male,SK,Fair,2
+25,Male,SK,Poor,1
+25,Male,SK,Very good,2
+26,Female,AB,Excellent,5
+26,Female,AB,Fair,5
+26,Female,AB,Very good,5
+26,Female,BC,Excellent,5
+26,Female,BC,Fair,6
+26,Female,BC,Poor,1
+26,Female,BC,Very good,4
+26,Female,MB,Excellent,3
+26,Female,MB,Very good,4
+26,Female,NB,Excellent,2
+26,Female,NB,Fair,2
+26,Female,NB,Very good,4
+26,Female,NL,Excellent,3
+26,Female,NL,Fair,2
+26,Female,NL,Very good,2
+26,Female,NS,Excellent,1
+26,Female,NS,Fair,2
+26,Female,NS,Very good,3
+26,Female,ON,Excellent,4
+26,Female,ON,Fair,11
+26,Female,ON,Very good,11
+26,Female,PE,Excellent,1
+26,Female,PE,Fair,2
+26,Female,PE,Very good,1
+26,Female,QC,Excellent,9
+26,Female,QC,Fair,8
+26,Female,QC,Very good,12
+26,Female,QC,NA,1
+26,Female,SK,Excellent,2
+26,Female,SK,Very good,4
+26,Male,AB,Excellent,4
+26,Male,AB,Fair,3
+26,Male,AB,Very good,4
+26,Male,BC,Excellent,5
+26,Male,BC,Fair,3
+26,Male,BC,Poor,1
+26,Male,BC,Very good,6
+26,Male,MB,Excellent,2
+26,Male,MB,Fair,1
+26,Male,MB,Very good,1
+26,Male,NB,Very good,1
+26,Male,NL,Excellent,1
+26,Male,NL,Fair,1
+26,Male,NL,Very good,2
+26,Male,NS,Excellent,3
+26,Male,NS,Fair,2
+26,Male,NS,Very good,2
+26,Male,ON,Excellent,8
+26,Male,ON,Fair,8
+26,Male,ON,Very good,11
+26,Male,PE,Excellent,1
+26,Male,PE,Fair,1
+26,Male,PE,Very good,1
+26,Male,QC,Excellent,6
+26,Male,QC,Fair,10
+26,Male,QC,Very good,10
+26,Male,SK,Excellent,1
+26,Male,SK,Fair,2
+26,Male,SK,Very good,1
+27,Female,AB,Excellent,1
+27,Female,AB,Fair,4
+27,Female,AB,Very good,5
+27,Female,BC,Excellent,3
+27,Female,BC,Fair,2
+27,Female,BC,Very good,10
+27,Female,MB,Fair,3
+27,Female,MB,Poor,1
+27,Female,MB,Very good,4
+27,Female,MB,NA,1
+27,Female,NB,Excellent,3
+27,Female,NB,Fair,6
+27,Female,NB,Very good,4
+27,Female,NL,Excellent,2
+27,Female,NL,Fair,1
+27,Female,NL,Very good,4
+27,Female,NS,Excellent,3
+27,Female,NS,Fair,5
+27,Female,NS,Very good,5
+27,Female,ON,Excellent,11
+27,Female,ON,Fair,12
+27,Female,ON,Poor,1
+27,Female,ON,Very good,13
+27,Female,PE,Excellent,1
+27,Female,PE,Fair,1
+27,Female,PE,Very good,1
+27,Female,QC,Excellent,6
+27,Female,QC,Fair,10
+27,Female,QC,Very good,5
+27,Female,SK,Excellent,3
+27,Female,SK,Fair,3
+27,Female,SK,Very good,5
+27,Male,AB,Excellent,7
+27,Male,AB,Fair,6
+27,Male,AB,Very good,4
+27,Male,BC,Excellent,4
+27,Male,BC,Fair,5
+27,Male,BC,Very good,2
+27,Male,MB,Fair,1
+27,Male,MB,Poor,1
+27,Male,MB,Very good,2
+27,Male,NB,Excellent,1
+27,Male,NB,Fair,3
+27,Male,NB,Very good,1
+27,Male,NL,Fair,1
+27,Male,NL,Very good,5
+27,Male,NS,Fair,3
+27,Male,NS,Poor,1
+27,Male,NS,Very good,1
+27,Male,ON,Excellent,9
+27,Male,ON,Fair,2
+27,Male,ON,Other,1
+27,Male,ON,Very good,12
+27,Male,PE,Excellent,1
+27,Male,PE,Very good,2
+27,Male,QC,Excellent,12
+27,Male,QC,Fair,5
+27,Male,QC,Very good,7
+27,Male,SK,Excellent,3
+27,Male,SK,Very good,4
+28,Female,AB,Excellent,3
+28,Female,AB,Fair,2
+28,Female,AB,Very good,4
+28,Female,BC,Excellent,6
+28,Female,BC,Fair,9
+28,Female,BC,Very good,3
+28,Female,MB,Excellent,1
+28,Female,MB,Fair,3
+28,Female,MB,Very good,3
+28,Female,NB,Very good,2
+28,Female,NL,Excellent,2
+28,Female,NL,Fair,1
+28,Female,NL,Very good,3
+28,Female,NS,Excellent,2
+28,Female,NS,Fair,1
+28,Female,NS,Very good,4
+28,Female,ON,Excellent,8
+28,Female,ON,Fair,6
+28,Female,ON,Very good,13
+28,Female,PE,Excellent,2
+28,Female,PE,Fair,1
+28,Female,QC,Excellent,10
+28,Female,QC,Fair,10
+28,Female,QC,Very good,13
+28,Female,SK,Excellent,3
+28,Female,SK,Fair,4
+28,Female,SK,Very good,2
+28,Male,AB,Excellent,4
+28,Male,AB,Fair,4
+28,Male,AB,Very good,6
+28,Male,BC,Excellent,6
+28,Male,BC,Fair,2
+28,Male,BC,Very good,3
+28,Male,MB,Excellent,2
+28,Male,MB,Fair,1
+28,Male,NB,Excellent,3
+28,Male,NB,Fair,4
+28,Male,NB,Very good,1
+28,Male,NL,Excellent,2
+28,Male,NL,Fair,2
+28,Male,NL,Very good,2
+28,Male,NS,Excellent,2
+28,Male,NS,Very good,4
+28,Male,ON,Excellent,13
+28,Male,ON,Fair,8
+28,Male,ON,Very good,16
+28,Male,PE,Excellent,2
+28,Male,QC,Excellent,7
+28,Male,QC,Fair,11
+28,Male,QC,Very good,5
+28,Male,SK,Excellent,2
+28,Male,SK,Fair,4
+28,Male,SK,Very good,3
+29,Female,AB,Excellent,4
+29,Female,AB,Fair,2
+29,Female,AB,Very good,11
+29,Female,BC,Excellent,5
+29,Female,BC,Fair,6
+29,Female,BC,Very good,3
+29,Female,MB,Excellent,6
+29,Female,MB,Fair,2
+29,Female,MB,Very good,6
+29,Female,NB,Excellent,2
+29,Female,NB,Fair,5
+29,Female,NB,Very good,6
+29,Female,NL,Excellent,4
+29,Female,NL,Fair,2
+29,Female,NL,Poor,1
+29,Female,NL,Very good,4
+29,Female,NS,Excellent,2
+29,Female,NS,Very good,2
+29,Female,ON,Excellent,16
+29,Female,ON,Fair,14
+29,Female,ON,Poor,1
+29,Female,ON,Very good,19
+29,Female,ON,NA,1
+29,Female,PE,Excellent,1
+29,Female,PE,Very good,1
+29,Female,QC,Excellent,2
+29,Female,QC,Fair,7
+29,Female,QC,Very good,8
+29,Female,SK,Excellent,5
+29,Female,SK,Fair,5
+29,Female,SK,Other,1
+29,Female,SK,Very good,4
+29,Male,AB,Excellent,1
+29,Male,AB,Fair,4
+29,Male,AB,Very good,1
+29,Male,BC,Excellent,2
+29,Male,BC,Fair,5
+29,Male,BC,Very good,7
+29,Male,MB,Excellent,1
+29,Male,MB,Fair,2
+29,Male,MB,Very good,3
+29,Male,NB,Excellent,1
+29,Male,NB,Fair,4
+29,Male,NB,Very good,3
+29,Male,NL,Excellent,2
+29,Male,NL,Fair,1
+29,Male,NL,Very good,4
+29,Male,NS,Excellent,1
+29,Male,NS,Fair,5
+29,Male,NS,Very good,4
+29,Male,ON,Excellent,12
+29,Male,ON,Fair,10
+29,Male,ON,Poor,2
+29,Male,ON,Very good,14
+29,Male,PE,Fair,3
+29,Male,PE,Very good,3
+29,Male,QC,Excellent,4
+29,Male,QC,Fair,3
+29,Male,QC,Very good,8
+29,Male,QC,NA,1
+29,Male,SK,Excellent,2
+29,Male,SK,Fair,5
+29,Male,SK,Very good,8
+30,Female,AB,Excellent,7
+30,Female,AB,Fair,6
+30,Female,AB,Very good,5
+30,Female,BC,Excellent,5
+30,Female,BC,Fair,2
+30,Female,BC,Poor,1
+30,Female,BC,Very good,3
+30,Female,BC,NA,1
+30,Female,MB,Excellent,5
+30,Female,MB,Very good,3
+30,Female,NB,Excellent,1
+30,Female,NB,Fair,1
+30,Female,NB,Very good,3
+30,Female,NL,Excellent,4
+30,Female,NL,Fair,4
+30,Female,NL,Poor,1
+30,Female,NL,Very good,6
+30,Female,NS,Excellent,1
+30,Female,NS,Fair,4
+30,Female,NS,Other,1
+30,Female,NS,Very good,5
+30,Female,ON,Excellent,19
+30,Female,ON,Fair,16
+30,Female,ON,Poor,1
+30,Female,ON,Very good,16
+30,Female,ON,NA,1
+30,Female,PE,Excellent,3
+30,Female,PE,Fair,2
+30,Female,PE,Very good,4
+30,Female,QC,Excellent,8
+30,Female,QC,Fair,10
+30,Female,QC,Poor,1
+30,Female,QC,Very good,14
+30,Female,SK,Excellent,4
+30,Female,SK,Fair,8
+30,Female,SK,Very good,2
+30,Male,AB,Excellent,4
+30,Male,AB,Fair,4
+30,Male,AB,Other,1
+30,Male,AB,Poor,2
+30,Male,AB,Very good,9
+30,Male,BC,Excellent,5
+30,Male,BC,Fair,8
+30,Male,BC,Poor,1
+30,Male,BC,Very good,10
+30,Male,BC,NA,1
+30,Male,MB,Excellent,4
+30,Male,MB,Fair,4
+30,Male,MB,Very good,1
+30,Male,NB,Fair,3
+30,Male,NB,Very good,2
+30,Male,NL,Excellent,2
+30,Male,NL,Fair,2
+30,Male,NL,Very good,3
+30,Male,NS,Excellent,2
+30,Male,NS,Fair,2
+30,Male,NS,Poor,1
+30,Male,NS,Very good,5
+30,Male,ON,Excellent,15
+30,Male,ON,Fair,9
+30,Male,ON,Poor,1
+30,Male,ON,Very good,17
+30,Male,ON,NA,1
+30,Male,PE,Excellent,3
+30,Male,PE,Fair,2
+30,Male,PE,Very good,2
+30,Male,QC,Excellent,14
+30,Male,QC,Fair,9
+30,Male,QC,Very good,13
+30,Male,SK,Excellent,7
+30,Male,SK,Fair,3
+30,Male,SK,Very good,4
+31,Female,AB,Excellent,5
+31,Female,AB,Fair,8
+31,Female,AB,Very good,5
+31,Female,BC,Excellent,2
+31,Female,BC,Fair,8
+31,Female,BC,Very good,2
+31,Female,MB,Excellent,4
+31,Female,MB,Fair,7
+31,Female,MB,Very good,8
+31,Female,NB,Excellent,2
+31,Female,NB,Fair,3
+31,Female,NB,Very good,4
+31,Female,NL,Excellent,4
+31,Female,NL,Fair,2
+31,Female,NL,Very good,4
+31,Female,NS,Excellent,2
+31,Female,NS,Fair,2
+31,Female,NS,Very good,2
+31,Female,ON,Excellent,11
+31,Female,ON,Fair,13
+31,Female,ON,Poor,1
+31,Female,ON,Very good,17
+31,Female,PE,Excellent,2
+31,Female,PE,Fair,1
+31,Female,QC,Excellent,18
+31,Female,QC,Fair,8
+31,Female,QC,Poor,1
+31,Female,QC,Very good,16
+31,Female,SK,Excellent,2
+31,Female,SK,Fair,3
+31,Female,SK,Very good,2
+31,Male,AB,Excellent,8
+31,Male,AB,Fair,5
+31,Male,AB,Very good,5
+31,Male,BC,Excellent,1
+31,Male,BC,Fair,3
+31,Male,BC,Very good,8
+31,Male,MB,Excellent,3
+31,Male,MB,Fair,5
+31,Male,MB,Very good,4
+31,Male,NB,Excellent,2
+31,Male,NB,Fair,1
+31,Male,NB,Very good,2
+31,Male,NL,Excellent,1
+31,Male,NL,Fair,3
+31,Male,NL,Very good,2
+31,Male,NS,Fair,1
+31,Male,NS,Very good,3
+31,Male,NS,NA,1
+31,Male,ON,Excellent,11
+31,Male,ON,Fair,15
+31,Male,ON,Very good,10
+31,Male,ON,NA,1
+31,Male,PE,Excellent,1
+31,Male,PE,Fair,2
+31,Male,PE,Very good,1
+31,Male,QC,Excellent,5
+31,Male,QC,Fair,10
+31,Male,QC,Very good,14
+31,Male,QC,NA,1
+31,Male,SK,Excellent,1
+31,Male,SK,Fair,3
+31,Male,SK,Very good,4
+32,Female,AB,Excellent,7
+32,Female,AB,Fair,8
+32,Female,AB,Very good,8
+32,Female,BC,Excellent,8
+32,Female,BC,Fair,8
+32,Female,BC,Poor,1
+32,Female,BC,Very good,8
+32,Female,MB,Fair,8
+32,Female,MB,Very good,5
+32,Female,NB,Excellent,3
+32,Female,NB,Fair,3
+32,Female,NB,Poor,1
+32,Female,NB,Very good,11
+32,Female,NL,Excellent,3
+32,Female,NL,Fair,2
+32,Female,NL,Very good,2
+32,Female,NS,Excellent,2
+32,Female,NS,Fair,4
+32,Female,NS,Very good,5
+32,Female,ON,Excellent,9
+32,Female,ON,Fair,14
+32,Female,ON,Very good,25
+32,Female,PE,Excellent,1
+32,Female,PE,Fair,2
+32,Female,PE,Very good,3
+32,Female,QC,Excellent,7
+32,Female,QC,Fair,11
+32,Female,QC,Very good,4
+32,Female,SK,Excellent,1
+32,Female,SK,Fair,4
+32,Female,SK,Very good,4
+32,Male,AB,Excellent,2
+32,Male,AB,Fair,2
+32,Male,AB,Poor,1
+32,Male,AB,Very good,6
+32,Male,AB,NA,1
+32,Male,BC,Excellent,9
+32,Male,BC,Fair,7
+32,Male,BC,Very good,8
+32,Male,MB,Excellent,3
+32,Male,MB,Fair,4
+32,Male,MB,Very good,5
+32,Male,NB,Excellent,1
+32,Male,NB,Fair,3
+32,Male,NB,Very good,2
+32,Male,NL,Excellent,2
+32,Male,NL,Fair,2
+32,Male,NL,Very good,2
+32,Male,NS,Excellent,1
+32,Male,NS,Fair,5
+32,Male,NS,Very good,4
+32,Male,ON,Excellent,12
+32,Male,ON,Fair,13
+32,Male,ON,Very good,16
+32,Male,PE,Excellent,1
+32,Male,PE,Very good,1
+32,Male,QC,Excellent,9
+32,Male,QC,Fair,4
+32,Male,QC,Very good,10
+32,Male,SK,Excellent,3
+32,Male,SK,Fair,3
+32,Male,SK,Poor,1
+32,Male,SK,Very good,4
+33,Female,AB,Excellent,6
+33,Female,AB,Fair,7
+33,Female,AB,Very good,5
+33,Female,AB,NA,1
+33,Female,BC,Excellent,9
+33,Female,BC,Fair,4
+33,Female,BC,Poor,2
+33,Female,BC,Very good,9
+33,Female,BC,NA,1
+33,Female,MB,Excellent,1
+33,Female,MB,Fair,4
+33,Female,MB,Very good,3
+33,Female,NB,Excellent,2
+33,Female,NB,Fair,1
+33,Female,NB,Very good,2
+33,Female,NB,NA,1
+33,Female,NL,Excellent,1
+33,Female,NL,Fair,2
+33,Female,NL,Very good,2
+33,Female,NS,Excellent,3
+33,Female,NS,Fair,4
+33,Female,NS,Very good,4
+33,Female,ON,Excellent,7
+33,Female,ON,Fair,15
+33,Female,ON,Poor,1
+33,Female,ON,Very good,14
+33,Female,PE,Fair,1
+33,Female,PE,Very good,6
+33,Female,QC,Excellent,12
+33,Female,QC,Fair,11
+33,Female,QC,Very good,7
+33,Female,SK,Excellent,4
+33,Female,SK,Fair,6
+33,Female,SK,Very good,1
+33,Male,AB,Excellent,7
+33,Male,AB,Fair,3
+33,Male,AB,Very good,8
+33,Male,BC,Excellent,8
+33,Male,BC,Fair,4
+33,Male,BC,Very good,6
+33,Male,MB,Excellent,3
+33,Male,MB,Fair,2
+33,Male,MB,Very good,1
+33,Male,NB,Excellent,1
+33,Male,NB,Fair,2
+33,Male,NB,Very good,5
+33,Male,NL,Excellent,2
+33,Male,NL,Fair,2
+33,Male,NL,Very good,2
+33,Male,NS,Excellent,1
+33,Male,NS,Fair,2
+33,Male,NS,Very good,1
+33,Male,ON,Excellent,11
+33,Male,ON,Fair,12
+33,Male,ON,Very good,14
+33,Male,PE,Excellent,2
+33,Male,PE,Fair,1
+33,Male,PE,Very good,1
+33,Male,QC,Excellent,7
+33,Male,QC,Fair,10
+33,Male,QC,Very good,9
+33,Male,SK,Excellent,2
+33,Male,SK,Fair,3
+33,Male,SK,Poor,1
+33,Male,SK,Very good,3
+34,Female,AB,Excellent,5
+34,Female,AB,Fair,8
+34,Female,AB,Very good,11
+34,Female,BC,Excellent,8
+34,Female,BC,Fair,11
+34,Female,MB,Excellent,3
+34,Female,MB,Fair,5
+34,Female,MB,Very good,6
+34,Female,NB,Excellent,3
+34,Female,NB,Very good,6
+34,Female,NL,Excellent,3
+34,Female,NL,Fair,2
+34,Female,NL,Very good,1
+34,Female,NS,Excellent,5
+34,Female,NS,Fair,2
+34,Female,NS,Very good,1
+34,Female,ON,Excellent,10
+34,Female,ON,Fair,15
+34,Female,ON,Very good,15
+34,Female,PE,Fair,2
+34,Female,PE,Poor,1
+34,Female,PE,Very good,2
+34,Female,QC,Excellent,8
+34,Female,QC,Fair,8
+34,Female,QC,Very good,10
+34,Female,SK,Excellent,2
+34,Female,SK,Fair,6
+34,Female,SK,Very good,3
+34,Male,AB,Excellent,3
+34,Male,AB,Fair,3
+34,Male,AB,Very good,5
+34,Male,BC,Excellent,7
+34,Male,BC,Fair,4
+34,Male,BC,Poor,2
+34,Male,BC,Very good,8
+34,Male,BC,NA,2
+34,Male,MB,Fair,6
+34,Male,MB,Poor,1
+34,Male,MB,Very good,5
+34,Male,NB,Excellent,2
+34,Male,NB,Fair,3
+34,Male,NB,Very good,6
+34,Male,NL,Excellent,6
+34,Male,NL,Fair,5
+34,Male,NL,Poor,1
+34,Male,NS,Excellent,3
+34,Male,NS,Fair,4
+34,Male,NS,Very good,2
+34,Male,ON,Excellent,7
+34,Male,ON,Fair,13
+34,Male,ON,Poor,1
+34,Male,ON,Very good,17
+34,Male,PE,Fair,2
+34,Male,PE,Very good,1
+34,Male,QC,Excellent,10
+34,Male,QC,Fair,4
+34,Male,QC,Very good,15
+34,Male,SK,Excellent,3
+34,Male,SK,Fair,2
+34,Male,SK,Very good,7
+35,Female,AB,Excellent,3
+35,Female,AB,Fair,4
+35,Female,AB,Poor,1
+35,Female,AB,Very good,7
+35,Female,BC,Excellent,9
+35,Female,BC,Fair,10
+35,Female,BC,Very good,9
+35,Female,MB,Excellent,3
+35,Female,MB,Fair,2
+35,Female,MB,Very good,4
+35,Female,MB,NA,1
+35,Female,NB,Fair,4
+35,Female,NB,Very good,7
+35,Female,NL,Excellent,3
+35,Female,NL,Fair,3
+35,Female,NL,Very good,2
+35,Female,NS,Excellent,3
+35,Female,NS,Fair,4
+35,Female,NS,Very good,4
+35,Female,ON,Excellent,9
+35,Female,ON,Fair,15
+35,Female,ON,Very good,13
+35,Female,PE,Excellent,1
+35,Female,PE,Fair,1
+35,Female,PE,Poor,2
+35,Female,PE,Very good,1
+35,Female,QC,Excellent,3
+35,Female,QC,Fair,12
+35,Female,QC,Very good,13
+35,Female,SK,Excellent,2
+35,Female,SK,Fair,3
+35,Female,SK,Very good,6
+35,Male,AB,Excellent,3
+35,Male,AB,Fair,10
+35,Male,AB,Very good,10
+35,Male,BC,Excellent,6
+35,Male,BC,Fair,6
+35,Male,BC,Very good,3
+35,Male,MB,Fair,5
+35,Male,MB,Very good,4
+35,Male,NB,Excellent,1
+35,Male,NB,Fair,2
+35,Male,NB,Very good,3
+35,Male,NL,Excellent,3
+35,Male,NL,Fair,3
+35,Male,NL,Very good,4
+35,Male,NS,Excellent,2
+35,Male,NS,Fair,2
+35,Male,NS,Very good,7
+35,Male,ON,Excellent,11
+35,Male,ON,Fair,14
+35,Male,ON,Very good,18
+35,Male,PE,Very good,2
+35,Male,QC,Excellent,9
+35,Male,QC,Fair,16
+35,Male,QC,Very good,14
+35,Male,SK,Excellent,6
+35,Male,SK,Fair,4
+35,Male,SK,Very good,5
+36,Female,AB,Excellent,8
+36,Female,AB,Fair,8
+36,Female,AB,Very good,9
+36,Female,BC,Excellent,5
+36,Female,BC,Fair,12
+36,Female,BC,Poor,1
+36,Female,BC,Very good,3
+36,Female,MB,Excellent,1
+36,Female,MB,Fair,5
+36,Female,MB,Very good,4
+36,Female,NB,Excellent,2
+36,Female,NB,Fair,3
+36,Female,NB,Very good,6
+36,Female,NL,Excellent,1
+36,Female,NL,Fair,4
+36,Female,NL,Very good,2
+36,Female,NS,Excellent,3
+36,Female,NS,Fair,1
+36,Female,NS,Other,1
+36,Female,NS,Very good,2
+36,Female,ON,Excellent,16
+36,Female,ON,Fair,18
+36,Female,ON,Very good,17
+36,Female,PE,Excellent,1
+36,Female,PE,Fair,1
+36,Female,PE,Poor,1
+36,Female,PE,Very good,2
+36,Female,QC,Excellent,14
+36,Female,QC,Fair,11
+36,Female,QC,Poor,2
+36,Female,QC,Very good,9
+36,Female,SK,Excellent,4
+36,Female,SK,Fair,4
+36,Female,SK,Very good,4
+36,Male,AB,Excellent,5
+36,Male,AB,Fair,6
+36,Male,AB,Very good,9
+36,Male,BC,Excellent,4
+36,Male,BC,Fair,4
+36,Male,BC,Poor,1
+36,Male,BC,Very good,8
+36,Male,MB,Excellent,3
+36,Male,MB,Fair,2
+36,Male,MB,Very good,8
+36,Male,NB,Excellent,1
+36,Male,NB,Fair,3
+36,Male,NL,Excellent,2
+36,Male,NL,Fair,2
+36,Male,NL,Very good,1
+36,Male,NS,Excellent,5
+36,Male,NS,Very good,5
+36,Male,ON,Excellent,10
+36,Male,ON,Fair,14
+36,Male,ON,Very good,18
+36,Male,PE,Fair,2
+36,Male,PE,Very good,1
+36,Male,QC,Excellent,14
+36,Male,QC,Fair,11
+36,Male,QC,Very good,8
+36,Male,QC,NA,1
+36,Male,SK,Excellent,3
+36,Male,SK,Fair,5
+36,Male,SK,Very good,7
+37,Female,AB,Excellent,5
+37,Female,AB,Fair,11
+37,Female,AB,Very good,10
+37,Female,BC,Excellent,6
+37,Female,BC,Fair,3
+37,Female,BC,Poor,1
+37,Female,BC,Very good,4
+37,Female,MB,Fair,1
+37,Female,MB,Poor,1
+37,Female,MB,Very good,3
+37,Female,NB,Excellent,2
+37,Female,NB,Fair,3
+37,Female,NB,Very good,2
+37,Female,NL,Excellent,1
+37,Female,NL,Fair,2
+37,Female,NL,Very good,6
+37,Female,NS,Excellent,4
+37,Female,NS,Fair,3
+37,Female,NS,Poor,2
+37,Female,NS,Very good,9
+37,Female,ON,Excellent,15
+37,Female,ON,Fair,14
+37,Female,ON,Very good,18
+37,Female,ON,NA,1
+37,Female,PE,Excellent,2
+37,Female,PE,Fair,1
+37,Female,PE,Very good,2
+37,Female,QC,Excellent,11
+37,Female,QC,Fair,8
+37,Female,QC,Poor,3
+37,Female,QC,Very good,10
+37,Female,SK,Excellent,1
+37,Female,SK,Fair,4
+37,Female,SK,Poor,1
+37,Female,SK,Very good,5
+37,Male,AB,Excellent,2
+37,Male,AB,Fair,6
+37,Male,AB,Very good,3
+37,Male,AB,NA,1
+37,Male,BC,Excellent,5
+37,Male,BC,Fair,4
+37,Male,BC,Very good,11
+37,Male,MB,Excellent,1
+37,Male,MB,Fair,1
+37,Male,MB,Very good,5
+37,Male,NB,Excellent,4
+37,Male,NB,Fair,1
+37,Male,NB,Very good,2
+37,Male,NL,Excellent,2
+37,Male,NL,Fair,3
+37,Male,NL,Very good,2
+37,Male,NS,Excellent,4
+37,Male,NS,Fair,6
+37,Male,NS,Very good,8
+37,Male,ON,Excellent,13
+37,Male,ON,Fair,12
+37,Male,ON,Very good,11
+37,Male,PE,Excellent,3
+37,Male,PE,Fair,1
+37,Male,PE,Very good,1
+37,Male,QC,Excellent,10
+37,Male,QC,Fair,11
+37,Male,QC,Very good,18
+37,Male,SK,Excellent,2
+37,Male,SK,Fair,5
+38,Female,AB,Excellent,5
+38,Female,AB,Fair,8
+38,Female,AB,Very good,10
+38,Female,BC,Excellent,4
+38,Female,BC,Fair,7
+38,Female,BC,Very good,4
+38,Female,MB,Fair,1
+38,Female,MB,Very good,2
+38,Female,NB,Excellent,1
+38,Female,NB,Fair,2
+38,Female,NB,Very good,3
+38,Female,NL,Excellent,3
+38,Female,NL,Very good,5
+38,Female,NS,Excellent,2
+38,Female,NS,Fair,5
+38,Female,NS,Very good,9
+38,Female,ON,Excellent,10
+38,Female,ON,Fair,22
+38,Female,ON,Poor,1
+38,Female,ON,Very good,23
+38,Female,PE,Excellent,1
+38,Female,PE,Fair,4
+38,Female,PE,Very good,1
+38,Female,QC,Excellent,12
+38,Female,QC,Fair,11
+38,Female,QC,Very good,10
+38,Female,SK,Excellent,3
+38,Female,SK,Fair,2
+38,Female,SK,Very good,3
+38,Male,AB,Excellent,2
+38,Male,AB,Fair,8
+38,Male,AB,Very good,9
+38,Male,BC,Excellent,3
+38,Male,BC,Fair,6
+38,Male,BC,Poor,1
+38,Male,BC,Very good,1
+38,Male,MB,Excellent,1
+38,Male,MB,Fair,4
+38,Male,MB,Very good,2
+38,Male,NB,Excellent,4
+38,Male,NB,Fair,3
+38,Male,NB,Very good,6
+38,Male,NL,Excellent,1
+38,Male,NL,Fair,1
+38,Male,NL,Other,1
+38,Male,NL,Poor,1
+38,Male,NL,Very good,2
+38,Male,NS,Excellent,2
+38,Male,NS,Fair,3
+38,Male,NS,Very good,1
+38,Male,ON,Excellent,9
+38,Male,ON,Fair,19
+38,Male,ON,Very good,9
+38,Male,PE,Fair,3
+38,Male,PE,Very good,1
+38,Male,QC,Excellent,14
+38,Male,QC,Fair,12
+38,Male,QC,Very good,12
+38,Male,SK,Excellent,1
+38,Male,SK,Fair,1
+38,Male,SK,Very good,4
+39,Female,AB,Excellent,4
+39,Female,AB,Fair,4
+39,Female,AB,Very good,8
+39,Female,BC,Excellent,4
+39,Female,BC,Fair,7
+39,Female,BC,Very good,7
+39,Female,MB,Excellent,1
+39,Female,MB,Fair,5
+39,Female,MB,Very good,2
+39,Female,NB,Excellent,1
+39,Female,NB,Fair,2
+39,Female,NB,Very good,5
+39,Female,NL,Excellent,4
+39,Female,NL,Fair,3
+39,Female,NL,Very good,4
+39,Female,NS,Fair,1
+39,Female,NS,Other,1
+39,Female,NS,Very good,5
+39,Female,ON,Excellent,10
+39,Female,ON,Fair,20
+39,Female,ON,Very good,14
+39,Female,PE,Excellent,1
+39,Female,PE,Very good,4
+39,Female,PE,NA,1
+39,Female,QC,Excellent,7
+39,Female,QC,Fair,16
+39,Female,QC,Very good,14
+39,Female,SK,Fair,4
+39,Female,SK,Very good,6
+39,Male,AB,Excellent,6
+39,Male,AB,Fair,4
+39,Male,AB,Very good,6
+39,Male,BC,Excellent,6
+39,Male,BC,Fair,2
+39,Male,BC,Poor,1
+39,Male,BC,Very good,8
+39,Male,MB,Excellent,3
+39,Male,MB,Fair,1
+39,Male,MB,Very good,2
+39,Male,NB,Excellent,4
+39,Male,NB,Fair,1
+39,Male,NB,Very good,2
+39,Male,NL,Excellent,4
+39,Male,NL,Fair,2
+39,Male,NL,Very good,6
+39,Male,NS,Excellent,3
+39,Male,NS,Fair,2
+39,Male,NS,Poor,1
+39,Male,NS,Very good,5
+39,Male,ON,Excellent,4
+39,Male,ON,Fair,18
+39,Male,ON,Very good,12
+39,Male,PE,Excellent,1
+39,Male,PE,Fair,2
+39,Male,PE,Very good,3
+39,Male,QC,Excellent,9
+39,Male,QC,Fair,12
+39,Male,QC,Poor,1
+39,Male,QC,Very good,12
+39,Male,SK,Excellent,3
+39,Male,SK,Fair,4
+39,Male,SK,Very good,4
+40,Female,AB,Excellent,5
+40,Female,AB,Fair,6
+40,Female,AB,Very good,3
+40,Female,BC,Excellent,4
+40,Female,BC,Fair,9
+40,Female,BC,Very good,4
+40,Female,MB,Excellent,3
+40,Female,MB,Fair,4
+40,Female,MB,Very good,4
+40,Female,NB,Excellent,1
+40,Female,NB,Fair,3
+40,Female,NB,Very good,4
+40,Female,NL,Excellent,3
+40,Female,NL,Fair,1
+40,Female,NL,Very good,1
+40,Female,NS,Excellent,3
+40,Female,NS,Fair,7
+40,Female,NS,Very good,4
+40,Female,ON,Excellent,13
+40,Female,ON,Fair,19
+40,Female,ON,Poor,1
+40,Female,ON,Very good,15
+40,Female,ON,NA,1
+40,Female,PE,Excellent,4
+40,Female,PE,Fair,1
+40,Female,PE,Very good,4
+40,Female,QC,Excellent,15
+40,Female,QC,Fair,13
+40,Female,QC,Very good,7
+40,Female,SK,Excellent,4
+40,Female,SK,Fair,5
+40,Female,SK,Very good,3
+40,Male,AB,Excellent,4
+40,Male,AB,Fair,7
+40,Male,AB,Poor,1
+40,Male,AB,Very good,4
+40,Male,BC,Excellent,6
+40,Male,BC,Fair,7
+40,Male,BC,Poor,1
+40,Male,BC,Very good,5
+40,Male,MB,Excellent,3
+40,Male,MB,Very good,5
+40,Male,NB,Excellent,3
+40,Male,NB,Fair,6
+40,Male,NB,Poor,2
+40,Male,NB,Very good,3
+40,Male,NL,Very good,4
+40,Male,NS,Excellent,3
+40,Male,NS,Fair,3
+40,Male,NS,Very good,4
+40,Male,ON,Excellent,8
+40,Male,ON,Fair,12
+40,Male,ON,Other,1
+40,Male,ON,Poor,1
+40,Male,ON,Very good,16
+40,Male,PE,Fair,1
+40,Male,PE,Very good,1
+40,Male,QC,Excellent,7
+40,Male,QC,Fair,11
+40,Male,QC,Poor,1
+40,Male,QC,Very good,11
+40,Male,SK,Excellent,3
+40,Male,SK,Fair,4
+40,Male,SK,Very good,2
+41,Female,AB,Excellent,2
+41,Female,AB,Fair,5
+41,Female,AB,Very good,1
+41,Female,BC,Excellent,9
+41,Female,BC,Fair,7
+41,Female,BC,Poor,1
+41,Female,BC,Very good,4
+41,Female,MB,Excellent,3
+41,Female,MB,Fair,2
+41,Female,MB,Poor,1
+41,Female,MB,Very good,5
+41,Female,NB,Excellent,3
+41,Female,NB,Fair,5
+41,Female,NB,Very good,6
+41,Female,NL,Excellent,1
+41,Female,NL,Fair,3
+41,Female,NL,Very good,2
+41,Female,NS,Excellent,3
+41,Female,NS,Fair,2
+41,Female,NS,Very good,3
+41,Female,ON,Excellent,13
+41,Female,ON,Fair,14
+41,Female,ON,Poor,2
+41,Female,ON,Very good,18
+41,Female,PE,Fair,2
+41,Female,PE,Very good,2
+41,Female,QC,Excellent,11
+41,Female,QC,Fair,8
+41,Female,QC,Very good,20
+41,Female,SK,Excellent,2
+41,Female,SK,Fair,1
+41,Female,SK,Very good,2
+41,Male,AB,Excellent,1
+41,Male,AB,Fair,5
+41,Male,AB,Very good,3
+41,Male,BC,Excellent,4
+41,Male,BC,Fair,8
+41,Male,BC,Very good,5
+41,Male,MB,Excellent,3
+41,Male,MB,Fair,1
+41,Male,MB,Very good,5
+41,Male,NB,Excellent,1
+41,Male,NB,Very good,3
+41,Male,NL,Excellent,3
+41,Male,NL,Fair,1
+41,Male,NL,Very good,1
+41,Male,NS,Fair,3
+41,Male,NS,Very good,4
+41,Male,ON,Excellent,7
+41,Male,ON,Fair,16
+41,Male,ON,Poor,1
+41,Male,ON,Very good,24
+41,Male,PE,Fair,1
+41,Male,PE,Very good,3
+41,Male,QC,Excellent,8
+41,Male,QC,Fair,11
+41,Male,QC,Very good,9
+41,Male,SK,Excellent,3
+41,Male,SK,Fair,3
+41,Male,SK,Very good,2
+42,Female,AB,Excellent,3
+42,Female,AB,Fair,3
+42,Female,AB,Poor,1
+42,Female,AB,Very good,6
+42,Female,BC,Excellent,7
+42,Female,BC,Fair,6
+42,Female,BC,Very good,6
+42,Female,MB,Excellent,1
+42,Female,MB,Fair,3
+42,Female,MB,Very good,6
+42,Female,NB,Excellent,2
+42,Female,NB,Fair,9
+42,Female,NB,Very good,4
+42,Female,NL,Excellent,2
+42,Female,NL,Fair,1
+42,Female,NL,Very good,1
+42,Female,NS,Excellent,1
+42,Female,NS,Fair,2
+42,Female,NS,Poor,1
+42,Female,NS,Very good,4
+42,Female,ON,Excellent,14
+42,Female,ON,Fair,24
+42,Female,ON,Very good,16
+42,Female,ON,NA,1
+42,Female,PE,Fair,4
+42,Female,PE,Very good,2
+42,Female,QC,Excellent,7
+42,Female,QC,Fair,9
+42,Female,QC,Very good,15
+42,Female,SK,Excellent,1
+42,Female,SK,Very good,2
+42,Male,AB,Excellent,5
+42,Male,AB,Fair,2
+42,Male,AB,Poor,1
+42,Male,AB,Very good,3
+42,Male,BC,Excellent,3
+42,Male,BC,Fair,10
+42,Male,BC,Very good,4
+42,Male,MB,Excellent,4
+42,Male,MB,Fair,3
+42,Male,MB,Very good,2
+42,Male,NB,Fair,5
+42,Male,NB,Very good,3
+42,Male,NL,Excellent,3
+42,Male,NL,Fair,3
+42,Male,NL,Poor,1
+42,Male,NL,Very good,4
+42,Male,NS,Excellent,3
+42,Male,NS,Fair,3
+42,Male,NS,Very good,2
+42,Male,ON,Excellent,8
+42,Male,ON,Fair,15
+42,Male,ON,Poor,2
+42,Male,ON,Very good,19
+42,Male,PE,Very good,1
+42,Male,QC,Excellent,10
+42,Male,QC,Fair,6
+42,Male,QC,Very good,10
+42,Male,SK,Excellent,2
+42,Male,SK,Fair,1
+42,Male,SK,Very good,4
+43,Female,AB,Excellent,5
+43,Female,AB,Fair,2
+43,Female,AB,Very good,6
+43,Female,BC,Excellent,5
+43,Female,BC,Fair,4
+43,Female,BC,Poor,1
+43,Female,BC,Very good,7
+43,Female,MB,Excellent,4
+43,Female,MB,Fair,1
+43,Female,MB,Poor,1
+43,Female,MB,Very good,2
+43,Female,NB,Excellent,6
+43,Female,NB,Fair,3
+43,Female,NB,Poor,1
+43,Female,NB,Very good,3
+43,Female,NL,Excellent,2
+43,Female,NL,Fair,4
+43,Female,NL,Very good,4
+43,Female,NS,Excellent,2
+43,Female,NS,Fair,4
+43,Female,NS,Poor,1
+43,Female,NS,Very good,7
+43,Female,ON,Excellent,8
+43,Female,ON,Fair,14
+43,Female,ON,Poor,3
+43,Female,ON,Very good,17
+43,Female,ON,NA,1
+43,Female,PE,Excellent,2
+43,Female,PE,Fair,2
+43,Female,PE,Very good,1
+43,Female,QC,Excellent,10
+43,Female,QC,Fair,7
+43,Female,QC,Poor,1
+43,Female,QC,Very good,17
+43,Female,SK,Excellent,3
+43,Female,SK,Fair,5
+43,Female,SK,Poor,1
+43,Female,SK,Very good,3
+43,Male,AB,Excellent,4
+43,Male,AB,Fair,3
+43,Male,AB,Very good,4
+43,Male,BC,Excellent,1
+43,Male,BC,Fair,8
+43,Male,BC,Very good,1
+43,Male,MB,Fair,2
+43,Male,MB,Poor,1
+43,Male,MB,Very good,4
+43,Male,NB,Excellent,1
+43,Male,NB,Fair,5
+43,Male,NB,Very good,4
+43,Male,NL,Excellent,4
+43,Male,NL,Fair,3
+43,Male,NL,Very good,4
+43,Male,NS,Excellent,1
+43,Male,NS,Fair,6
+43,Male,NS,Very good,6
+43,Male,ON,Excellent,4
+43,Male,ON,Fair,16
+43,Male,ON,Poor,2
+43,Male,ON,Very good,11
+43,Male,ON,NA,1
+43,Male,PE,Very good,3
+43,Male,QC,Excellent,7
+43,Male,QC,Fair,10
+43,Male,QC,Poor,1
+43,Male,QC,Very good,7
+43,Male,SK,Excellent,3
+43,Male,SK,Fair,2
+43,Male,SK,Other,1
+43,Male,SK,Very good,4
+44,Female,AB,Excellent,3
+44,Female,AB,Fair,6
+44,Female,AB,Very good,2
+44,Female,AB,NA,1
+44,Female,BC,Excellent,8
+44,Female,BC,Fair,5
+44,Female,BC,Very good,8
+44,Female,MB,Excellent,3
+44,Female,MB,Fair,5
+44,Female,MB,Very good,2
+44,Female,NB,Excellent,3
+44,Female,NB,Fair,1
+44,Female,NB,Very good,5
+44,Female,NL,Fair,3
+44,Female,NL,Very good,1
+44,Female,NS,Excellent,6
+44,Female,NS,Fair,3
+44,Female,NS,Very good,4
+44,Female,ON,Excellent,10
+44,Female,ON,Fair,21
+44,Female,ON,Very good,20
+44,Female,ON,NA,2
+44,Female,PE,Excellent,1
+44,Female,PE,Very good,3
+44,Female,PE,NA,1
+44,Female,QC,Excellent,10
+44,Female,QC,Fair,10
+44,Female,QC,Very good,7
+44,Female,SK,Fair,1
+44,Male,AB,Excellent,6
+44,Male,AB,Fair,8
+44,Male,AB,Poor,1
+44,Male,AB,Very good,3
+44,Male,BC,Excellent,5
+44,Male,BC,Fair,5
+44,Male,BC,Poor,1
+44,Male,BC,Very good,7
+44,Male,MB,Excellent,3
+44,Male,MB,Fair,4
+44,Male,MB,Very good,3
+44,Male,NB,Fair,3
+44,Male,NB,Poor,1
+44,Male,NB,Very good,7
+44,Male,NL,Excellent,1
+44,Male,NL,Fair,2
+44,Male,NL,Very good,1
+44,Male,NS,Fair,4
+44,Male,NS,Very good,2
+44,Male,NS,NA,1
+44,Male,ON,Excellent,5
+44,Male,ON,Fair,18
+44,Male,ON,Other,1
+44,Male,ON,Poor,1
+44,Male,ON,Very good,13
+44,Male,PE,Excellent,3
+44,Male,PE,Fair,2
+44,Male,PE,Very good,2
+44,Male,QC,Excellent,10
+44,Male,QC,Fair,9
+44,Male,QC,Very good,9
+44,Male,SK,Fair,3
+44,Male,SK,Very good,2
+45,Female,AB,Excellent,3
+45,Female,AB,Fair,3
+45,Female,AB,Very good,3
+45,Female,BC,Excellent,3
+45,Female,BC,Fair,9
+45,Female,BC,Very good,8
+45,Female,MB,Excellent,2
+45,Female,MB,Fair,2
+45,Female,MB,Very good,6
+45,Female,NB,Excellent,1
+45,Female,NB,Fair,5
+45,Female,NB,Very good,4
+45,Female,NL,Excellent,5
+45,Female,NL,Fair,2
+45,Female,NL,Very good,3
+45,Female,NS,Excellent,3
+45,Female,NS,Fair,5
+45,Female,NS,Very good,2
+45,Female,ON,Excellent,12
+45,Female,ON,Fair,19
+45,Female,ON,Poor,2
+45,Female,ON,Very good,17
+45,Female,ON,NA,1
+45,Female,PE,Excellent,1
+45,Female,PE,Fair,3
+45,Female,PE,Very good,2
+45,Female,QC,Excellent,5
+45,Female,QC,Fair,9
+45,Female,QC,Very good,9
+45,Female,SK,Excellent,1
+45,Female,SK,Fair,3
+45,Female,SK,Very good,1
+45,Male,AB,Excellent,4
+45,Male,AB,Fair,2
+45,Male,AB,Very good,6
+45,Male,BC,Excellent,3
+45,Male,BC,Fair,3
+45,Male,BC,Poor,1
+45,Male,BC,Very good,3
+45,Male,MB,Excellent,2
+45,Male,MB,Fair,2
+45,Male,MB,Very good,3
+45,Male,NB,Excellent,3
+45,Male,NB,Fair,3
+45,Male,NB,Poor,1
+45,Male,NB,Very good,1
+45,Male,NL,Fair,5
+45,Male,NL,Very good,2
+45,Male,NS,Excellent,1
+45,Male,NS,Fair,5
+45,Male,NS,Very good,3
+45,Male,ON,Excellent,11
+45,Male,ON,Fair,17
+45,Male,ON,Very good,13
+45,Male,PE,Fair,4
+45,Male,QC,Excellent,5
+45,Male,QC,Fair,9
+45,Male,QC,Poor,1
+45,Male,QC,Very good,6
+45,Male,SK,Excellent,3
+45,Male,SK,Fair,1
+45,Male,SK,Poor,1
+46,Female,AB,Excellent,7
+46,Female,AB,Fair,5
+46,Female,AB,Very good,14
+46,Female,BC,Excellent,6
+46,Female,BC,Fair,16
+46,Female,BC,Poor,1
+46,Female,BC,Very good,3
+46,Female,MB,Excellent,1
+46,Female,MB,Fair,1
+46,Female,MB,Very good,2
+46,Female,NB,Excellent,3
+46,Female,NB,Fair,6
+46,Female,NB,Poor,1
+46,Female,NB,Very good,3
+46,Female,NL,Excellent,2
+46,Female,NL,Fair,7
+46,Female,NL,Very good,4
+46,Female,NS,Excellent,1
+46,Female,NS,Fair,5
+46,Female,NS,Very good,2
+46,Female,ON,Excellent,8
+46,Female,ON,Fair,15
+46,Female,ON,Poor,4
+46,Female,ON,Very good,13
+46,Female,PE,Excellent,1
+46,Female,PE,Fair,1
+46,Female,PE,Very good,1
+46,Female,QC,Excellent,5
+46,Female,QC,Fair,10
+46,Female,QC,Poor,1
+46,Female,QC,Very good,6
+46,Female,SK,Excellent,2
+46,Female,SK,Fair,3
+46,Female,SK,Very good,4
+46,Male,AB,Excellent,1
+46,Male,AB,Fair,3
+46,Male,AB,Poor,1
+46,Male,AB,Very good,2
+46,Male,BC,Excellent,3
+46,Male,BC,Fair,13
+46,Male,BC,Very good,9
+46,Male,MB,Excellent,1
+46,Male,MB,Fair,6
+46,Male,MB,Very good,1
+46,Male,NB,Excellent,1
+46,Male,NB,Fair,3
+46,Male,NB,Very good,7
+46,Male,NL,Excellent,2
+46,Male,NL,Fair,1
+46,Male,NS,Excellent,1
+46,Male,NS,Fair,4
+46,Male,NS,Very good,3
+46,Male,ON,Excellent,7
+46,Male,ON,Fair,11
+46,Male,ON,Very good,25
+46,Male,PE,Excellent,1
+46,Male,PE,Very good,4
+46,Male,QC,Excellent,6
+46,Male,QC,Fair,12
+46,Male,QC,Very good,6
+46,Male,SK,Fair,2
+46,Male,SK,Very good,1
+47,Female,AB,Excellent,4
+47,Female,AB,Fair,4
+47,Female,AB,Very good,5
+47,Female,BC,Excellent,5
+47,Female,BC,Fair,10
+47,Female,BC,Very good,9
+47,Female,MB,Excellent,2
+47,Female,MB,Fair,2
+47,Female,MB,Very good,2
+47,Female,NB,Fair,1
+47,Female,NB,Very good,3
+47,Female,NL,Excellent,2
+47,Female,NL,Fair,5
+47,Female,NL,Very good,4
+47,Female,NS,Fair,1
+47,Female,NS,Very good,3
+47,Female,ON,Excellent,16
+47,Female,ON,Fair,12
+47,Female,ON,Other,1
+47,Female,ON,Poor,4
+47,Female,ON,Very good,20
+47,Female,PE,Excellent,2
+47,Female,PE,Fair,2
+47,Female,PE,Very good,1
+47,Female,QC,Excellent,4
+47,Female,QC,Fair,5
+47,Female,QC,Poor,1
+47,Female,QC,Very good,9
+47,Female,SK,Excellent,2
+47,Female,SK,Fair,3
+47,Female,SK,Poor,1
+47,Female,SK,Very good,3
+47,Male,AB,Excellent,1
+47,Male,AB,Fair,2
+47,Male,AB,Very good,5
+47,Male,AB,NA,1
+47,Male,BC,Excellent,4
+47,Male,BC,Fair,4
+47,Male,BC,Very good,5
+47,Male,MB,Excellent,1
+47,Male,MB,Fair,2
+47,Male,MB,Very good,3
+47,Male,NB,Fair,3
+47,Male,NB,Very good,2
+47,Male,NL,Very good,3
+47,Male,NS,Excellent,4
+47,Male,NS,Fair,4
+47,Male,NS,Poor,1
+47,Male,NS,Very good,4
+47,Male,ON,Excellent,4
+47,Male,ON,Fair,13
+47,Male,ON,Very good,14
+47,Male,ON,NA,1
+47,Male,PE,Excellent,1
+47,Male,PE,Very good,1
+47,Male,QC,Excellent,6
+47,Male,QC,Fair,7
+47,Male,QC,Very good,6
+47,Male,SK,Fair,2
+47,Male,SK,Very good,3
+48,Female,AB,Excellent,1
+48,Female,AB,Fair,4
+48,Female,AB,Poor,1
+48,Female,AB,Very good,3
+48,Female,BC,Excellent,2
+48,Female,BC,Fair,7
+48,Female,BC,Poor,1
+48,Female,BC,Very good,7
+48,Female,MB,Excellent,1
+48,Female,MB,Fair,2
+48,Female,MB,Poor,1
+48,Female,MB,Very good,4
+48,Female,NB,Excellent,2
+48,Female,NB,Fair,4
+48,Female,NB,Other,1
+48,Female,NB,Very good,3
+48,Female,NL,Excellent,2
+48,Female,NL,Fair,4
+48,Female,NL,Very good,3
+48,Female,NS,Excellent,1
+48,Female,NS,Fair,4
+48,Female,NS,Very good,3
+48,Female,ON,Excellent,12
+48,Female,ON,Fair,24
+48,Female,ON,Poor,1
+48,Female,ON,Very good,17
+48,Female,PE,Excellent,2
+48,Female,PE,Poor,1
+48,Female,PE,Very good,1
+48,Female,QC,Excellent,4
+48,Female,QC,Fair,13
+48,Female,QC,Poor,2
+48,Female,QC,Very good,5
+48,Female,SK,Excellent,1
+48,Female,SK,Fair,1
+48,Female,SK,Very good,2
+48,Male,AB,Excellent,2
+48,Male,AB,Fair,7
+48,Male,AB,Very good,6
+48,Male,BC,Excellent,2
+48,Male,BC,Fair,6
+48,Male,BC,Very good,9
+48,Male,MB,Excellent,1
+48,Male,MB,Fair,1
+48,Male,MB,Poor,1
+48,Male,MB,Very good,6
+48,Male,NB,Excellent,1
+48,Male,NB,Fair,2
+48,Male,NB,Very good,4
+48,Male,NB,NA,1
+48,Male,NL,Fair,3
+48,Male,NL,Poor,1
+48,Male,NL,Very good,4
+48,Male,NS,Excellent,1
+48,Male,NS,Fair,3
+48,Male,NS,Poor,1
+48,Male,NS,Very good,4
+48,Male,ON,Excellent,11
+48,Male,ON,Fair,15
+48,Male,ON,Poor,1
+48,Male,ON,Very good,13
+48,Male,PE,Fair,2
+48,Male,PE,Very good,1
+48,Male,QC,Excellent,7
+48,Male,QC,Fair,11
+48,Male,QC,Very good,11
+48,Male,SK,Excellent,2
+48,Male,SK,Fair,1
+48,Male,SK,Very good,5
+49,Female,AB,Excellent,6
+49,Female,AB,Fair,5
+49,Female,AB,Poor,1
+49,Female,AB,Very good,3
+49,Female,BC,Excellent,5
+49,Female,BC,Fair,5
+49,Female,BC,Other,1
+49,Female,BC,Very good,5
+49,Female,MB,Excellent,2
+49,Female,MB,Fair,3
+49,Female,MB,Very good,2
+49,Female,NB,Excellent,1
+49,Female,NB,Fair,3
+49,Female,NB,Poor,1
+49,Female,NL,Excellent,2
+49,Female,NL,Fair,1
+49,Female,NL,Poor,1
+49,Female,NL,Very good,3
+49,Female,NS,Excellent,4
+49,Female,NS,Fair,6
+49,Female,NS,Very good,2
+49,Female,ON,Excellent,13
+49,Female,ON,Fair,17
+49,Female,ON,Poor,2
+49,Female,ON,Very good,10
+49,Female,ON,NA,1
+49,Female,PE,Excellent,4
+49,Female,PE,Fair,1
+49,Female,PE,Very good,1
+49,Female,QC,Excellent,5
+49,Female,QC,Fair,8
+49,Female,QC,Very good,6
+49,Female,SK,Excellent,1
+49,Female,SK,Fair,3
+49,Female,SK,Very good,2
+49,Male,AB,Excellent,3
+49,Male,AB,Fair,3
+49,Male,AB,Poor,1
+49,Male,AB,Very good,5
+49,Male,BC,Excellent,4
+49,Male,BC,Fair,5
+49,Male,BC,Poor,1
+49,Male,BC,Very good,5
+49,Male,MB,Excellent,1
+49,Male,MB,Fair,5
+49,Male,MB,Very good,2
+49,Male,NB,Fair,1
+49,Male,NB,Poor,1
+49,Male,NL,Excellent,3
+49,Male,NL,Fair,3
+49,Male,NL,Very good,3
+49,Male,NS,Excellent,1
+49,Male,NS,Fair,3
+49,Male,NS,Very good,5
+49,Male,ON,Excellent,9
+49,Male,ON,Fair,14
+49,Male,ON,Other,2
+49,Male,ON,Poor,1
+49,Male,ON,Very good,9
+49,Male,PE,Excellent,1
+49,Male,PE,Fair,1
+49,Male,QC,Excellent,3
+49,Male,QC,Fair,9
+49,Male,QC,Other,1
+49,Male,QC,Very good,13
+49,Male,SK,Excellent,1
+49,Male,SK,Fair,4
+50,Female,AB,Excellent,3
+50,Female,AB,Fair,7
+50,Female,AB,Very good,8
+50,Female,AB,NA,1
+50,Female,BC,Excellent,6
+50,Female,BC,Fair,8
+50,Female,BC,Very good,8
+50,Female,BC,NA,1
+50,Female,MB,Fair,3
+50,Female,NB,Fair,4
+50,Female,NB,Poor,1
+50,Female,NB,Very good,3
+50,Female,NL,Excellent,2
+50,Female,NL,Fair,4
+50,Female,NL,Very good,7
+50,Female,NS,Excellent,6
+50,Female,NS,Fair,2
+50,Female,NS,Poor,1
+50,Female,NS,Very good,3
+50,Female,ON,Excellent,10
+50,Female,ON,Fair,14
+50,Female,ON,Poor,3
+50,Female,ON,Very good,9
+50,Female,ON,NA,1
+50,Female,PE,Fair,2
+50,Female,PE,Very good,2
+50,Female,PE,NA,1
+50,Female,QC,Excellent,5
+50,Female,QC,Fair,9
+50,Female,QC,Very good,7
+50,Female,SK,Fair,3
+50,Female,SK,Very good,1
+50,Female,SK,NA,1
+50,Male,AB,Excellent,2
+50,Male,AB,Fair,4
+50,Male,AB,Very good,5
+50,Male,BC,Excellent,7
+50,Male,BC,Fair,3
+50,Male,BC,Other,1
+50,Male,BC,Very good,8
+50,Male,MB,Fair,4
+50,Male,MB,Other,1
+50,Male,NB,Excellent,2
+50,Male,NB,Fair,5
+50,Male,NB,Very good,4
+50,Male,NL,Excellent,1
+50,Male,NL,Fair,2
+50,Male,NL,Poor,1
+50,Male,NL,Very good,4
+50,Male,NS,Excellent,4
+50,Male,NS,Fair,4
+50,Male,NS,Poor,1
+50,Male,NS,Very good,2
+50,Male,ON,Excellent,8
+50,Male,ON,Fair,14
+50,Male,ON,Other,1
+50,Male,ON,Poor,3
+50,Male,ON,Very good,18
+50,Male,ON,NA,1
+50,Male,PE,Fair,2
+50,Male,QC,Excellent,7
+50,Male,QC,Fair,9
+50,Male,QC,Very good,10
+50,Male,SK,Excellent,3
+50,Male,SK,Fair,3
+50,Male,SK,Very good,3
+51,Female,AB,Excellent,2
+51,Female,AB,Fair,8
+51,Female,AB,Poor,1
+51,Female,AB,Very good,2
+51,Female,BC,Excellent,3
+51,Female,BC,Fair,2
+51,Female,BC,Poor,1
+51,Female,BC,Very good,6
+51,Female,MB,Excellent,4
+51,Female,MB,Very good,5
+51,Female,NB,Excellent,2
+51,Female,NB,Fair,7
+51,Female,NB,Very good,2
+51,Female,NL,Fair,5
+51,Female,NL,Very good,6
+51,Female,NS,Excellent,3
+51,Female,NS,Fair,5
+51,Female,NS,Very good,1
+51,Female,ON,Excellent,7
+51,Female,ON,Fair,17
+51,Female,ON,Poor,3
+51,Female,ON,Very good,8
+51,Female,PE,Fair,3
+51,Female,PE,Very good,1
+51,Female,QC,Excellent,13
+51,Female,QC,Fair,13
+51,Female,QC,Poor,2
+51,Female,QC,Very good,18
+51,Female,SK,Excellent,2
+51,Female,SK,Fair,1
+51,Female,SK,Poor,1
+51,Female,SK,Very good,2
+51,Male,AB,Excellent,3
+51,Male,AB,Fair,3
+51,Male,AB,Very good,1
+51,Male,BC,Excellent,5
+51,Male,BC,Fair,8
+51,Male,BC,Very good,6
+51,Male,MB,Excellent,2
+51,Male,MB,Fair,4
+51,Male,MB,Very good,1
+51,Male,NB,Excellent,1
+51,Male,NB,Fair,4
+51,Male,NB,Poor,1
+51,Male,NB,Very good,3
+51,Male,NL,Excellent,2
+51,Male,NL,Fair,4
+51,Male,NL,Very good,1
+51,Male,NS,Fair,6
+51,Male,NS,Poor,1
+51,Male,NS,Very good,6
+51,Male,NS,NA,1
+51,Male,ON,Excellent,9
+51,Male,ON,Fair,15
+51,Male,ON,Poor,1
+51,Male,ON,Very good,6
+51,Male,PE,Excellent,1
+51,Male,PE,Fair,2
+51,Male,PE,Very good,2
+51,Male,QC,Excellent,8
+51,Male,QC,Fair,8
+51,Male,QC,Very good,7
+51,Male,SK,Fair,2
+51,Male,SK,Very good,4
+52,Female,AB,Excellent,3
+52,Female,AB,Fair,2
+52,Female,AB,Very good,6
+52,Female,BC,Excellent,6
+52,Female,BC,Fair,10
+52,Female,BC,Poor,1
+52,Female,BC,Very good,5
+52,Female,MB,Excellent,1
+52,Female,MB,Fair,3
+52,Female,MB,Very good,3
+52,Female,NB,Excellent,3
+52,Female,NB,Fair,6
+52,Female,NB,Poor,2
+52,Female,NB,Very good,6
+52,Female,NL,Excellent,4
+52,Female,NL,Fair,2
+52,Female,NL,Poor,1
+52,Female,NL,Very good,5
+52,Female,NS,Excellent,3
+52,Female,NS,Fair,7
+52,Female,NS,Very good,6
+52,Female,ON,Excellent,11
+52,Female,ON,Fair,23
+52,Female,ON,Poor,5
+52,Female,ON,Very good,18
+52,Female,PE,Excellent,2
+52,Female,PE,Very good,1
+52,Female,QC,Excellent,7
+52,Female,QC,Fair,8
+52,Female,QC,Poor,2
+52,Female,QC,Very good,14
+52,Female,SK,Excellent,2
+52,Female,SK,Fair,4
+52,Female,SK,Very good,3
+52,Male,AB,Excellent,2
+52,Male,AB,Fair,12
+52,Male,AB,Poor,1
+52,Male,AB,Very good,5
+52,Male,BC,Excellent,3
+52,Male,BC,Fair,7
+52,Male,BC,Poor,2
+52,Male,BC,Very good,5
+52,Male,MB,Excellent,1
+52,Male,MB,Fair,4
+52,Male,MB,Very good,2
+52,Male,NB,Excellent,2
+52,Male,NB,Fair,4
+52,Male,NB,Poor,1
+52,Male,NB,Very good,5
+52,Male,NB,NA,1
+52,Male,NL,Excellent,2
+52,Male,NL,Very good,7
+52,Male,NS,Excellent,1
+52,Male,NS,Fair,5
+52,Male,NS,Poor,2
+52,Male,NS,Very good,6
+52,Male,ON,Excellent,9
+52,Male,ON,Fair,22
+52,Male,ON,Poor,1
+52,Male,ON,Very good,16
+52,Male,PE,Fair,3
+52,Male,QC,Excellent,12
+52,Male,QC,Fair,14
+52,Male,QC,Poor,2
+52,Male,QC,Very good,9
+52,Male,QC,NA,1
+52,Male,SK,Excellent,3
+52,Male,SK,Fair,3
+52,Male,SK,Poor,1
+52,Male,SK,Very good,1
+52,Male,SK,NA,1
+53,Female,AB,Excellent,5
+53,Female,AB,Fair,5
+53,Female,AB,Poor,1
+53,Female,AB,Very good,7
+53,Female,BC,Excellent,3
+53,Female,BC,Fair,17
+53,Female,BC,Poor,1
+53,Female,BC,Very good,5
+53,Female,MB,Excellent,1
+53,Female,MB,Fair,5
+53,Female,MB,Very good,2
+53,Female,NB,Excellent,4
+53,Female,NB,Fair,6
+53,Female,NB,Very good,4
+53,Female,NL,Excellent,3
+53,Female,NL,Fair,5
+53,Female,NL,Poor,1
+53,Female,NL,Very good,4
+53,Female,NS,Excellent,5
+53,Female,NS,Fair,2
+53,Female,NS,Very good,4
+53,Female,ON,Excellent,10
+53,Female,ON,Fair,27
+53,Female,ON,Poor,4
+53,Female,ON,Very good,15
+53,Female,PE,Excellent,1
+53,Female,PE,Fair,6
+53,Female,PE,Poor,1
+53,Female,PE,Very good,3
+53,Female,QC,Excellent,6
+53,Female,QC,Fair,11
+53,Female,QC,Other,1
+53,Female,QC,Poor,1
+53,Female,QC,Very good,11
+53,Female,SK,Excellent,3
+53,Female,SK,Fair,4
+53,Female,SK,Very good,2
+53,Male,AB,Excellent,1
+53,Male,AB,Fair,7
+53,Male,AB,Very good,7
+53,Male,BC,Excellent,3
+53,Male,BC,Fair,10
+53,Male,BC,Very good,6
+53,Male,MB,Excellent,1
+53,Male,MB,Fair,7
+53,Male,MB,Very good,2
+53,Male,NB,Excellent,7
+53,Male,NB,Fair,1
+53,Male,NB,Very good,3
+53,Male,NL,Excellent,3
+53,Male,NL,Fair,6
+53,Male,NL,Poor,1
+53,Male,NL,Very good,3
+53,Male,NS,Excellent,2
+53,Male,NS,Fair,6
+53,Male,NS,Poor,1
+53,Male,NS,Very good,1
+53,Male,ON,Excellent,5
+53,Male,ON,Fair,19
+53,Male,ON,Poor,3
+53,Male,ON,Very good,21
+53,Male,ON,NA,1
+53,Male,PE,Excellent,1
+53,Male,PE,Fair,4
+53,Male,PE,Very good,3
+53,Male,QC,Excellent,9
+53,Male,QC,Fair,12
+53,Male,QC,Very good,5
+53,Male,QC,NA,1
+53,Male,SK,Excellent,1
+53,Male,SK,Poor,1
+53,Male,SK,Very good,2
+54,Female,AB,Excellent,5
+54,Female,AB,Fair,4
+54,Female,AB,Poor,2
+54,Female,AB,Very good,5
+54,Female,BC,Excellent,3
+54,Female,BC,Fair,9
+54,Female,BC,Poor,1
+54,Female,BC,Very good,8
+54,Female,MB,Excellent,1
+54,Female,MB,Fair,3
+54,Female,MB,Poor,1
+54,Female,MB,Very good,6
+54,Female,NB,Excellent,4
+54,Female,NB,Fair,8
+54,Female,NB,Very good,2
+54,Female,NL,Excellent,4
+54,Female,NL,Fair,7
+54,Female,NL,Poor,2
+54,Female,NL,Very good,3
+54,Female,NS,Excellent,1
+54,Female,NS,Fair,8
+54,Female,NS,Poor,1
+54,Female,NS,Very good,6
+54,Female,ON,Excellent,12
+54,Female,ON,Fair,28
+54,Female,ON,Poor,3
+54,Female,ON,Very good,14
+54,Female,PE,Fair,5
+54,Female,PE,Very good,6
+54,Female,QC,Excellent,5
+54,Female,QC,Fair,20
+54,Female,QC,Poor,1
+54,Female,QC,Very good,7
+54,Female,SK,Excellent,1
+54,Female,SK,Fair,5
+54,Female,SK,Very good,2
+54,Male,AB,Excellent,3
+54,Male,AB,Fair,4
+54,Male,AB,Poor,1
+54,Male,AB,Very good,12
+54,Male,BC,Excellent,1
+54,Male,BC,Fair,7
+54,Male,BC,Poor,1
+54,Male,BC,Very good,5
+54,Male,MB,Excellent,1
+54,Male,MB,Fair,2
+54,Male,MB,Poor,1
+54,Male,MB,Very good,6
+54,Male,NB,Excellent,4
+54,Male,NB,Fair,1
+54,Male,NB,Poor,1
+54,Male,NB,Very good,5
+54,Male,NL,Excellent,2
+54,Male,NL,Fair,5
+54,Male,NL,Poor,1
+54,Male,NL,Very good,2
+54,Male,NS,Excellent,3
+54,Male,NS,Fair,3
+54,Male,NS,Very good,4
+54,Male,ON,Excellent,8
+54,Male,ON,Fair,20
+54,Male,ON,Poor,3
+54,Male,ON,Very good,16
+54,Male,PE,Fair,6
+54,Male,PE,Very good,4
+54,Male,QC,Excellent,9
+54,Male,QC,Fair,10
+54,Male,QC,Other,1
+54,Male,QC,Very good,13
+54,Male,SK,Excellent,3
+54,Male,SK,Fair,5
+54,Male,SK,Very good,3
+55,Female,AB,Excellent,7
+55,Female,AB,Fair,8
+55,Female,AB,Poor,2
+55,Female,AB,Very good,7
+55,Female,BC,Excellent,5
+55,Female,BC,Fair,18
+55,Female,BC,Very good,9
+55,Female,MB,Excellent,3
+55,Female,MB,Fair,4
+55,Female,MB,Very good,4
+55,Female,NB,Excellent,6
+55,Female,NB,Fair,9
+55,Female,NB,Poor,3
+55,Female,NB,Very good,4
+55,Female,NB,NA,1
+55,Female,NL,Excellent,2
+55,Female,NL,Fair,2
+55,Female,NL,Very good,3
+55,Female,NS,Excellent,1
+55,Female,NS,Fair,3
+55,Female,NS,Poor,1
+55,Female,NS,Very good,4
+55,Female,ON,Excellent,21
+55,Female,ON,Fair,21
+55,Female,ON,Poor,3
+55,Female,ON,Very good,18
+55,Female,PE,Excellent,2
+55,Female,PE,Fair,2
+55,Female,PE,Very good,4
+55,Female,QC,Excellent,8
+55,Female,QC,Fair,11
+55,Female,QC,Very good,17
+55,Female,SK,Fair,4
+55,Female,SK,Poor,1
+55,Female,SK,Very good,2
+55,Male,AB,Excellent,1
+55,Male,AB,Fair,8
+55,Male,AB,Poor,1
+55,Male,AB,Very good,9
+55,Male,BC,Excellent,5
+55,Male,BC,Fair,10
+55,Male,BC,Poor,2
+55,Male,BC,Very good,6
+55,Male,MB,Excellent,1
+55,Male,MB,Fair,5
+55,Male,MB,Other,1
+55,Male,MB,Poor,2
+55,Male,MB,Very good,4
+55,Male,NB,Excellent,1
+55,Male,NB,Fair,5
+55,Male,NB,Poor,1
+55,Male,NB,Very good,5
+55,Male,NL,Excellent,4
+55,Male,NL,Fair,5
+55,Male,NL,Poor,3
+55,Male,NL,Very good,2
+55,Male,NS,Excellent,2
+55,Male,NS,Fair,6
+55,Male,NS,Poor,1
+55,Male,NS,Very good,5
+55,Male,ON,Excellent,12
+55,Male,ON,Fair,19
+55,Male,ON,Very good,17
+55,Male,PE,Excellent,1
+55,Male,PE,Fair,4
+55,Male,PE,Very good,3
+55,Male,QC,Excellent,8
+55,Male,QC,Fair,11
+55,Male,QC,Poor,2
+55,Male,QC,Very good,7
+55,Male,QC,NA,1
+55,Male,SK,Excellent,3
+55,Male,SK,Fair,8
+55,Male,SK,Very good,1
+56,Female,AB,Excellent,4
+56,Female,AB,Fair,4
+56,Female,AB,Poor,1
+56,Female,AB,Very good,6
+56,Female,BC,Excellent,6
+56,Female,BC,Fair,11
+56,Female,BC,Poor,1
+56,Female,BC,Very good,9
+56,Female,MB,Fair,8
+56,Female,MB,Very good,2
+56,Female,NB,Excellent,2
+56,Female,NB,Fair,7
+56,Female,NB,Poor,1
+56,Female,NB,Very good,7
+56,Female,NL,Excellent,4
+56,Female,NL,Fair,3
+56,Female,NL,Very good,3
+56,Female,NS,Excellent,3
+56,Female,NS,Fair,5
+56,Female,NS,Poor,1
+56,Female,NS,Very good,5
+56,Female,ON,Excellent,6
+56,Female,ON,Fair,18
+56,Female,ON,Poor,4
+56,Female,ON,Very good,21
+56,Female,ON,NA,1
+56,Female,PE,Fair,3
+56,Female,PE,Very good,5
+56,Female,QC,Excellent,11
+56,Female,QC,Fair,20
+56,Female,QC,Very good,11
+56,Female,SK,Excellent,2
+56,Female,SK,Fair,3
+56,Female,SK,Very good,2
+56,Male,AB,Excellent,4
+56,Male,AB,Fair,7
+56,Male,AB,Poor,2
+56,Male,AB,Very good,5
+56,Male,BC,Excellent,3
+56,Male,BC,Fair,9
+56,Male,BC,Poor,3
+56,Male,BC,Very good,5
+56,Male,MB,Excellent,2
+56,Male,MB,Fair,1
+56,Male,MB,Poor,1
+56,Male,MB,Very good,5
+56,Male,NB,Excellent,1
+56,Male,NB,Fair,12
+56,Male,NB,Very good,4
+56,Male,NL,Excellent,1
+56,Male,NL,Fair,2
+56,Male,NL,Other,1
+56,Male,NL,Poor,2
+56,Male,NL,Very good,6
+56,Male,NS,Excellent,1
+56,Male,NS,Fair,8
+56,Male,NS,Poor,3
+56,Male,NS,Very good,4
+56,Male,ON,Excellent,7
+56,Male,ON,Fair,25
+56,Male,ON,Poor,4
+56,Male,ON,Very good,16
+56,Male,PE,Excellent,1
+56,Male,PE,Fair,2
+56,Male,PE,Very good,3
+56,Male,QC,Excellent,12
+56,Male,QC,Fair,14
+56,Male,QC,Poor,3
+56,Male,QC,Very good,13
+56,Male,SK,Excellent,1
+56,Male,SK,Fair,4
+57,Female,AB,Excellent,2
+57,Female,AB,Fair,5
+57,Female,AB,Poor,3
+57,Female,AB,Very good,2
+57,Female,BC,Excellent,6
+57,Female,BC,Fair,12
+57,Female,BC,Poor,3
+57,Female,BC,Very good,6
+57,Female,MB,Excellent,3
+57,Female,MB,Fair,1
+57,Female,MB,Poor,1
+57,Female,MB,Very good,4
+57,Female,NB,Excellent,3
+57,Female,NB,Fair,5
+57,Female,NB,Very good,5
+57,Female,NL,Excellent,2
+57,Female,NL,Fair,4
+57,Female,NL,Poor,2
+57,Female,NL,Very good,6
+57,Female,NS,Excellent,2
+57,Female,NS,Fair,10
+57,Female,NS,Very good,5
+57,Female,ON,Excellent,16
+57,Female,ON,Fair,19
+57,Female,ON,Poor,2
+57,Female,ON,Very good,27
+57,Female,PE,Excellent,2
+57,Female,PE,Fair,3
+57,Female,PE,Poor,2
+57,Female,QC,Excellent,11
+57,Female,QC,Fair,20
+57,Female,QC,Very good,15
+57,Female,SK,Excellent,3
+57,Female,SK,Fair,6
+57,Female,SK,Very good,5
+57,Male,AB,Excellent,5
+57,Male,AB,Fair,8
+57,Male,AB,Poor,3
+57,Male,AB,Very good,5
+57,Male,BC,Excellent,5
+57,Male,BC,Fair,11
+57,Male,BC,Very good,3
+57,Male,MB,Fair,3
+57,Male,MB,Very good,3
+57,Male,NB,Excellent,5
+57,Male,NB,Fair,3
+57,Male,NB,Very good,4
+57,Male,NL,Excellent,2
+57,Male,NL,Fair,2
+57,Male,NL,Very good,8
+57,Male,NS,Excellent,3
+57,Male,NS,Fair,8
+57,Male,NS,Poor,2
+57,Male,NS,Very good,5
+57,Male,ON,Excellent,9
+57,Male,ON,Fair,23
+57,Male,ON,Poor,3
+57,Male,ON,Very good,16
+57,Male,ON,NA,1
+57,Male,PE,Excellent,1
+57,Male,PE,Very good,1
+57,Male,QC,Excellent,8
+57,Male,QC,Fair,12
+57,Male,QC,Very good,9
+57,Male,SK,Fair,6
+57,Male,SK,Poor,1
+57,Male,SK,Very good,7
+58,Female,AB,Excellent,1
+58,Female,AB,Fair,11
+58,Female,AB,Poor,3
+58,Female,AB,Very good,7
+58,Female,AB,NA,1
+58,Female,BC,Excellent,5
+58,Female,BC,Fair,11
+58,Female,BC,Other,1
+58,Female,BC,Poor,1
+58,Female,BC,Very good,6
+58,Female,MB,Excellent,3
+58,Female,MB,Fair,5
+58,Female,MB,Poor,1
+58,Female,MB,Very good,4
+58,Female,NB,Excellent,5
+58,Female,NB,Fair,10
+58,Female,NB,Very good,8
+58,Female,NL,Excellent,4
+58,Female,NL,Fair,4
+58,Female,NL,Very good,7
+58,Female,NS,Excellent,5
+58,Female,NS,Fair,7
+58,Female,NS,Poor,1
+58,Female,NS,Very good,5
+58,Female,ON,Excellent,11
+58,Female,ON,Fair,17
+58,Female,ON,Poor,7
+58,Female,ON,Very good,15
+58,Female,PE,Excellent,2
+58,Female,PE,Fair,3
+58,Female,PE,Poor,2
+58,Female,PE,Very good,3
+58,Female,QC,Excellent,7
+58,Female,QC,Fair,16
+58,Female,QC,Poor,1
+58,Female,QC,Very good,21
+58,Female,SK,Excellent,3
+58,Female,SK,Fair,1
+58,Female,SK,Poor,1
+58,Female,SK,Very good,8
+58,Male,AB,Excellent,1
+58,Male,AB,Fair,6
+58,Male,AB,Poor,2
+58,Male,AB,Very good,3
+58,Male,BC,Excellent,3
+58,Male,BC,Fair,9
+58,Male,BC,Poor,1
+58,Male,BC,Very good,9
+58,Male,MB,Excellent,3
+58,Male,MB,Fair,7
+58,Male,MB,Very good,6
+58,Male,NB,Fair,3
+58,Male,NB,Poor,2
+58,Male,NB,Very good,4
+58,Male,NL,Excellent,2
+58,Male,NL,Fair,3
+58,Male,NL,Poor,1
+58,Male,NL,Very good,1
+58,Male,NS,Excellent,1
+58,Male,NS,Fair,2
+58,Male,NS,Poor,2
+58,Male,NS,Very good,2
+58,Male,ON,Excellent,17
+58,Male,ON,Fair,26
+58,Male,ON,Other,1
+58,Male,ON,Poor,3
+58,Male,ON,Very good,19
+58,Male,PE,Excellent,1
+58,Male,PE,Fair,1
+58,Male,PE,Very good,5
+58,Male,QC,Excellent,8
+58,Male,QC,Fair,15
+58,Male,QC,Poor,1
+58,Male,QC,Very good,12
+58,Male,SK,Excellent,5
+58,Male,SK,Fair,4
+58,Male,SK,Poor,1
+58,Male,SK,Very good,1
+59,Female,AB,Excellent,4
+59,Female,AB,Fair,7
+59,Female,AB,Very good,4
+59,Female,BC,Excellent,5
+59,Female,BC,Fair,15
+59,Female,BC,Very good,11
+59,Female,MB,Excellent,3
+59,Female,MB,Fair,10
+59,Female,MB,Very good,6
+59,Female,NB,Excellent,2
+59,Female,NB,Fair,5
+59,Female,NB,Poor,1
+59,Female,NB,Very good,3
+59,Female,NL,Excellent,4
+59,Female,NL,Fair,1
+59,Female,NL,Poor,1
+59,Female,NL,Very good,9
+59,Female,NL,NA,1
+59,Female,NS,Excellent,6
+59,Female,NS,Fair,6
+59,Female,NS,Other,1
+59,Female,NS,Poor,1
+59,Female,NS,Very good,13
+59,Female,ON,Excellent,17
+59,Female,ON,Fair,18
+59,Female,ON,Poor,3
+59,Female,ON,Very good,18
+59,Female,PE,Excellent,2
+59,Female,PE,Fair,6
+59,Female,PE,Very good,3
+59,Female,QC,Excellent,8
+59,Female,QC,Fair,12
+59,Female,QC,Very good,8
+59,Female,SK,Excellent,1
+59,Female,SK,Poor,1
+59,Female,SK,Very good,5
+59,Male,AB,Excellent,2
+59,Male,AB,Fair,14
+59,Male,AB,Very good,2
+59,Male,BC,Excellent,7
+59,Male,BC,Fair,13
+59,Male,BC,Poor,2
+59,Male,BC,Very good,10
+59,Male,MB,Excellent,3
+59,Male,MB,Fair,4
+59,Male,MB,Very good,1
+59,Male,NB,Excellent,1
+59,Male,NB,Fair,10
+59,Male,NB,Poor,2
+59,Male,NB,Very good,4
+59,Male,NL,Excellent,2
+59,Male,NL,Fair,5
+59,Male,NL,Poor,2
+59,Male,NL,Very good,3
+59,Male,NS,Excellent,1
+59,Male,NS,Fair,10
+59,Male,NS,Very good,5
+59,Male,ON,Excellent,7
+59,Male,ON,Fair,16
+59,Male,ON,Other,1
+59,Male,ON,Poor,1
+59,Male,ON,Very good,10
+59,Male,PE,Excellent,2
+59,Male,PE,Fair,1
+59,Male,PE,Very good,4
+59,Male,QC,Excellent,5
+59,Male,QC,Fair,13
+59,Male,QC,Poor,2
+59,Male,QC,Very good,11
+59,Male,SK,Excellent,1
+59,Male,SK,Fair,7
+59,Male,SK,Very good,2
+60,Female,AB,Excellent,6
+60,Female,AB,Fair,9
+60,Female,AB,Very good,8
+60,Female,BC,Excellent,4
+60,Female,BC,Fair,15
+60,Female,BC,Poor,6
+60,Female,BC,Very good,8
+60,Female,BC,NA,1
+60,Female,MB,Excellent,2
+60,Female,MB,Fair,5
+60,Female,MB,Very good,3
+60,Female,MB,NA,1
+60,Female,NB,Excellent,1
+60,Female,NB,Fair,8
+60,Female,NB,Poor,2
+60,Female,NB,Very good,3
+60,Female,NL,Excellent,2
+60,Female,NL,Fair,6
+60,Female,NL,Very good,1
+60,Female,NS,Excellent,2
+60,Female,NS,Fair,3
+60,Female,NS,Poor,2
+60,Female,NS,Very good,7
+60,Female,ON,Excellent,16
+60,Female,ON,Fair,25
+60,Female,ON,Poor,8
+60,Female,ON,Very good,21
+60,Female,PE,Excellent,1
+60,Female,PE,Fair,4
+60,Female,PE,Very good,5
+60,Female,QC,Excellent,12
+60,Female,QC,Fair,16
+60,Female,QC,Poor,1
+60,Female,QC,Very good,14
+60,Female,SK,Excellent,1
+60,Female,SK,Fair,5
+60,Female,SK,Very good,3
+60,Male,AB,Excellent,3
+60,Male,AB,Fair,5
+60,Male,AB,Very good,5
+60,Male,BC,Excellent,4
+60,Male,BC,Fair,10
+60,Male,BC,Very good,13
+60,Male,MB,Fair,4
+60,Male,MB,Poor,1
+60,Male,MB,Very good,5
+60,Male,NB,Excellent,1
+60,Male,NB,Fair,11
+60,Male,NB,Poor,1
+60,Male,NL,Excellent,2
+60,Male,NL,Fair,5
+60,Male,NL,Poor,1
+60,Male,NL,Very good,6
+60,Male,NS,Excellent,3
+60,Male,NS,Fair,11
+60,Male,NS,Very good,6
+60,Male,ON,Excellent,9
+60,Male,ON,Fair,19
+60,Male,ON,Poor,3
+60,Male,ON,Very good,22
+60,Male,PE,Excellent,1
+60,Male,PE,Fair,3
+60,Male,QC,Excellent,5
+60,Male,QC,Fair,16
+60,Male,QC,Very good,14
+60,Male,SK,Excellent,2
+60,Male,SK,Fair,2
+60,Male,SK,Very good,4
+61,Female,AB,Excellent,2
+61,Female,AB,Fair,4
+61,Female,AB,Very good,6
+61,Female,BC,Excellent,5
+61,Female,BC,Fair,17
+61,Female,BC,Poor,2
+61,Female,BC,Very good,12
+61,Female,MB,Excellent,3
+61,Female,MB,Fair,6
+61,Female,MB,Poor,1
+61,Female,MB,Very good,6
+61,Female,MB,NA,1
+61,Female,NB,Excellent,1
+61,Female,NB,Fair,7
+61,Female,NB,Poor,1
+61,Female,NB,Very good,3
+61,Female,NL,Excellent,1
+61,Female,NL,Fair,3
+61,Female,NL,Very good,7
+61,Female,NS,Excellent,4
+61,Female,NS,Fair,8
+61,Female,NS,Poor,1
+61,Female,NS,Very good,4
+61,Female,ON,Excellent,13
+61,Female,ON,Fair,19
+61,Female,ON,Other,1
+61,Female,ON,Poor,4
+61,Female,ON,Very good,18
+61,Female,ON,NA,1
+61,Female,PE,Excellent,1
+61,Female,PE,Fair,3
+61,Female,PE,Poor,2
+61,Female,PE,Very good,6
+61,Female,QC,Excellent,9
+61,Female,QC,Fair,18
+61,Female,QC,Poor,1
+61,Female,QC,Very good,10
+61,Female,SK,Excellent,1
+61,Female,SK,Fair,5
+61,Female,SK,Poor,2
+61,Female,SK,Very good,2
+61,Male,AB,Fair,10
+61,Male,AB,Very good,4
+61,Male,BC,Excellent,2
+61,Male,BC,Fair,4
+61,Male,BC,Poor,1
+61,Male,BC,Very good,8
+61,Male,MB,Excellent,1
+61,Male,MB,Fair,7
+61,Male,MB,Other,1
+61,Male,MB,Very good,2
+61,Male,NB,Excellent,1
+61,Male,NB,Fair,10
+61,Male,NB,Poor,1
+61,Male,NB,Very good,2
+61,Male,NL,Excellent,1
+61,Male,NL,Fair,2
+61,Male,NL,Very good,2
+61,Male,NS,Excellent,4
+61,Male,NS,Fair,5
+61,Male,NS,Poor,5
+61,Male,NS,Very good,3
+61,Male,ON,Excellent,10
+61,Male,ON,Fair,21
+61,Male,ON,Poor,3
+61,Male,ON,Very good,17
+61,Male,PE,Excellent,1
+61,Male,PE,Fair,4
+61,Male,PE,Very good,3
+61,Male,QC,Excellent,8
+61,Male,QC,Fair,14
+61,Male,QC,Poor,1
+61,Male,QC,Very good,11
+61,Male,SK,Excellent,6
+61,Male,SK,Fair,3
+61,Male,SK,Very good,2
+62,Female,AB,Excellent,3
+62,Female,AB,Fair,1
+62,Female,AB,Very good,10
+62,Female,BC,Excellent,5
+62,Female,BC,Fair,10
+62,Female,BC,Poor,3
+62,Female,BC,Very good,8
+62,Female,MB,Excellent,1
+62,Female,MB,Fair,5
+62,Female,MB,Very good,4
+62,Female,NB,Excellent,3
+62,Female,NB,Fair,7
+62,Female,NB,Very good,4
+62,Female,NL,Excellent,3
+62,Female,NL,Fair,5
+62,Female,NL,Poor,2
+62,Female,NL,Very good,5
+62,Female,NS,Excellent,3
+62,Female,NS,Fair,5
+62,Female,NS,Poor,2
+62,Female,NS,Very good,5
+62,Female,ON,Excellent,13
+62,Female,ON,Fair,24
+62,Female,ON,Poor,1
+62,Female,ON,Very good,14
+62,Female,ON,NA,1
+62,Female,PE,Excellent,1
+62,Female,PE,Fair,1
+62,Female,PE,Poor,2
+62,Female,PE,Very good,5
+62,Female,QC,Excellent,13
+62,Female,QC,Fair,14
+62,Female,QC,Poor,1
+62,Female,QC,Very good,19
+62,Female,SK,Excellent,1
+62,Female,SK,Fair,6
+62,Female,SK,Other,1
+62,Female,SK,Very good,4
+62,Female,SK,NA,1
+62,Male,AB,Excellent,9
+62,Male,AB,Fair,7
+62,Male,AB,Very good,3
+62,Male,BC,Excellent,2
+62,Male,BC,Fair,8
+62,Male,BC,Poor,3
+62,Male,BC,Very good,5
+62,Male,MB,Fair,8
+62,Male,MB,Very good,2
+62,Male,NB,Excellent,2
+62,Male,NB,Fair,2
+62,Male,NB,Poor,2
+62,Male,NB,Very good,6
+62,Male,NL,Excellent,1
+62,Male,NL,Fair,4
+62,Male,NL,Very good,8
+62,Male,NS,Excellent,1
+62,Male,NS,Fair,8
+62,Male,NS,Poor,1
+62,Male,NS,Very good,2
+62,Male,ON,Excellent,10
+62,Male,ON,Fair,23
+62,Male,ON,Poor,4
+62,Male,ON,Very good,7
+62,Male,ON,NA,1
+62,Male,PE,Excellent,3
+62,Male,PE,Fair,2
+62,Male,PE,Very good,2
+62,Male,QC,Excellent,7
+62,Male,QC,Fair,16
+62,Male,QC,Other,1
+62,Male,QC,Very good,10
+62,Male,SK,Excellent,2
+62,Male,SK,Fair,7
+62,Male,SK,Poor,1
+62,Male,SK,Very good,4
+63,Female,AB,Excellent,4
+63,Female,AB,Fair,6
+63,Female,AB,Poor,1
+63,Female,AB,Very good,5
+63,Female,BC,Excellent,7
+63,Female,BC,Fair,9
+63,Female,BC,Poor,1
+63,Female,BC,Very good,10
+63,Female,MB,Excellent,1
+63,Female,MB,Fair,3
+63,Female,MB,Poor,1
+63,Female,MB,Very good,5
+63,Female,NB,Excellent,3
+63,Female,NB,Fair,9
+63,Female,NB,Poor,2
+63,Female,NB,Very good,6
+63,Female,NL,Excellent,1
+63,Female,NL,Fair,8
+63,Female,NL,Very good,7
+63,Female,NS,Excellent,5
+63,Female,NS,Fair,6
+63,Female,NS,Poor,2
+63,Female,NS,Very good,3
+63,Female,NS,NA,1
+63,Female,ON,Excellent,18
+63,Female,ON,Fair,22
+63,Female,ON,Poor,5
+63,Female,ON,Very good,18
+63,Female,PE,Excellent,2
+63,Female,PE,Fair,6
+63,Female,PE,Poor,1
+63,Female,PE,Very good,6
+63,Female,QC,Excellent,16
+63,Female,QC,Fair,14
+63,Female,QC,Poor,2
+63,Female,QC,Very good,17
+63,Female,SK,Excellent,4
+63,Female,SK,Fair,6
+63,Female,SK,Very good,8
+63,Male,AB,Excellent,2
+63,Male,AB,Fair,4
+63,Male,AB,Poor,1
+63,Male,AB,Very good,2
+63,Male,BC,Excellent,4
+63,Male,BC,Fair,7
+63,Male,BC,Very good,4
+63,Male,MB,Excellent,3
+63,Male,MB,Fair,6
+63,Male,MB,Very good,4
+63,Male,NB,Excellent,4
+63,Male,NB,Fair,8
+63,Male,NB,Very good,2
+63,Male,NL,Fair,8
+63,Male,NL,Very good,6
+63,Male,NS,Excellent,1
+63,Male,NS,Fair,5
+63,Male,NS,Very good,3
+63,Male,ON,Excellent,9
+63,Male,ON,Fair,13
+63,Male,ON,Poor,3
+63,Male,ON,Very good,17
+63,Male,PE,Fair,4
+63,Male,PE,Very good,3
+63,Male,QC,Excellent,7
+63,Male,QC,Fair,16
+63,Male,QC,Poor,3
+63,Male,QC,Very good,14
+63,Male,SK,Excellent,1
+63,Male,SK,Fair,5
+63,Male,SK,Poor,1
+63,Male,SK,Very good,3
+64,Female,AB,Excellent,2
+64,Female,AB,Fair,6
+64,Female,AB,Poor,1
+64,Female,AB,Very good,6
+64,Female,BC,Excellent,3
+64,Female,BC,Fair,9
+64,Female,BC,Poor,2
+64,Female,BC,Very good,7
+64,Female,BC,NA,1
+64,Female,MB,Excellent,1
+64,Female,MB,Fair,5
+64,Female,MB,Poor,1
+64,Female,MB,Very good,8
+64,Female,NB,Fair,5
+64,Female,NB,Very good,11
+64,Female,NL,Excellent,3
+64,Female,NL,Fair,10
+64,Female,NL,Poor,1
+64,Female,NL,Very good,5
+64,Female,NS,Excellent,6
+64,Female,NS,Fair,11
+64,Female,NS,Very good,5
+64,Female,ON,Excellent,11
+64,Female,ON,Fair,22
+64,Female,ON,Poor,3
+64,Female,ON,Very good,17
+64,Female,PE,Fair,2
+64,Female,PE,Very good,2
+64,Female,QC,Excellent,10
+64,Female,QC,Fair,15
+64,Female,QC,Poor,1
+64,Female,QC,Very good,15
+64,Female,SK,Fair,2
+64,Female,SK,Poor,1
+64,Female,SK,Very good,5
+64,Male,AB,Excellent,2
+64,Male,AB,Fair,3
+64,Male,AB,Poor,2
+64,Male,AB,Very good,3
+64,Male,BC,Excellent,6
+64,Male,BC,Fair,12
+64,Male,BC,Poor,2
+64,Male,BC,Very good,8
+64,Male,MB,Fair,6
+64,Male,MB,Very good,3
+64,Male,NB,Excellent,3
+64,Male,NB,Fair,9
+64,Male,NB,Poor,1
+64,Male,NB,Very good,3
+64,Male,NL,Fair,6
+64,Male,NL,Poor,1
+64,Male,NL,Very good,3
+64,Male,NS,Excellent,3
+64,Male,NS,Fair,10
+64,Male,NS,Poor,3
+64,Male,NS,Very good,5
+64,Male,ON,Excellent,6
+64,Male,ON,Fair,24
+64,Male,ON,Very good,15
+64,Male,ON,NA,1
+64,Male,PE,Fair,4
+64,Male,PE,Poor,1
+64,Male,PE,Very good,4
+64,Male,QC,Excellent,5
+64,Male,QC,Fair,11
+64,Male,QC,Poor,1
+64,Male,QC,Very good,8
+64,Male,SK,Fair,8
+64,Male,SK,Very good,3
+65,Female,AB,Excellent,5
+65,Female,AB,Fair,4
+65,Female,AB,Poor,1
+65,Female,AB,Very good,5
+65,Female,BC,Excellent,7
+65,Female,BC,Fair,15
+65,Female,BC,Poor,1
+65,Female,BC,Very good,8
+65,Female,MB,Excellent,2
+65,Female,MB,Fair,5
+65,Female,MB,Very good,5
+65,Female,NB,Excellent,3
+65,Female,NB,Fair,8
+65,Female,NB,Other,1
+65,Female,NB,Very good,8
+65,Female,NL,Excellent,1
+65,Female,NL,Fair,5
+65,Female,NL,Very good,11
+65,Female,NS,Excellent,2
+65,Female,NS,Fair,6
+65,Female,NS,Poor,2
+65,Female,NS,Very good,6
+65,Female,NS,NA,1
+65,Female,ON,Excellent,12
+65,Female,ON,Fair,24
+65,Female,ON,Poor,5
+65,Female,ON,Very good,23
+65,Female,PE,Fair,7
+65,Female,PE,Very good,2
+65,Female,QC,Excellent,14
+65,Female,QC,Fair,19
+65,Female,QC,Very good,13
+65,Female,QC,NA,1
+65,Female,SK,Excellent,2
+65,Female,SK,Fair,4
+65,Female,SK,Very good,3
+65,Male,AB,Excellent,1
+65,Male,AB,Fair,6
+65,Male,AB,Poor,2
+65,Male,AB,Very good,4
+65,Male,BC,Excellent,6
+65,Male,BC,Fair,17
+65,Male,BC,Poor,2
+65,Male,BC,Very good,7
+65,Male,BC,NA,1
+65,Male,MB,Fair,6
+65,Male,MB,Poor,1
+65,Male,MB,Very good,4
+65,Male,NB,Excellent,1
+65,Male,NB,Fair,5
+65,Male,NB,Very good,4
+65,Male,NL,Excellent,1
+65,Male,NL,Fair,5
+65,Male,NL,Very good,3
+65,Male,NS,Fair,5
+65,Male,NS,Very good,6
+65,Male,ON,Excellent,6
+65,Male,ON,Fair,28
+65,Male,ON,Poor,4
+65,Male,ON,Very good,17
+65,Male,PE,Excellent,1
+65,Male,PE,Fair,2
+65,Male,PE,Poor,1
+65,Male,PE,Very good,2
+65,Male,QC,Excellent,9
+65,Male,QC,Fair,15
+65,Male,QC,Poor,1
+65,Male,QC,Very good,11
+65,Male,SK,Excellent,1
+65,Male,SK,Fair,8
+65,Male,SK,Very good,3
+65,Male,SK,NA,1
+66,Female,AB,Excellent,2
+66,Female,AB,Fair,5
+66,Female,AB,Very good,8
+66,Female,BC,Excellent,3
+66,Female,BC,Fair,10
+66,Female,BC,Poor,4
+66,Female,BC,Very good,8
+66,Female,MB,Excellent,2
+66,Female,MB,Fair,7
+66,Female,MB,Poor,3
+66,Female,MB,Very good,1
+66,Female,NB,Excellent,3
+66,Female,NB,Fair,12
+66,Female,NB,Poor,2
+66,Female,NB,Very good,1
+66,Female,NL,Excellent,1
+66,Female,NL,Fair,5
+66,Female,NL,Very good,5
+66,Female,NS,Excellent,3
+66,Female,NS,Fair,5
+66,Female,NS,Very good,4
+66,Female,ON,Excellent,16
+66,Female,ON,Fair,26
+66,Female,ON,Poor,2
+66,Female,ON,Very good,23
+66,Female,PE,Excellent,2
+66,Female,PE,Fair,1
+66,Female,PE,Very good,3
+66,Female,QC,Excellent,10
+66,Female,QC,Fair,22
+66,Female,QC,Poor,4
+66,Female,QC,Very good,13
+66,Female,SK,Excellent,1
+66,Female,SK,Fair,7
+66,Female,SK,Very good,2
+66,Male,AB,Excellent,2
+66,Male,AB,Fair,6
+66,Male,AB,Very good,5
+66,Male,BC,Excellent,6
+66,Male,BC,Fair,12
+66,Male,BC,Very good,2
+66,Male,MB,Fair,6
+66,Male,MB,Very good,3
+66,Male,NB,Fair,16
+66,Male,NB,Very good,6
+66,Male,NL,Excellent,3
+66,Male,NL,Fair,2
+66,Male,NL,Very good,2
+66,Male,NS,Excellent,2
+66,Male,NS,Fair,5
+66,Male,NS,Very good,3
+66,Male,ON,Excellent,7
+66,Male,ON,Fair,19
+66,Male,ON,Poor,3
+66,Male,ON,Very good,23
+66,Male,PE,Fair,7
+66,Male,PE,Very good,3
+66,Male,QC,Excellent,6
+66,Male,QC,Fair,18
+66,Male,QC,Very good,7
+66,Male,SK,Fair,5
+66,Male,SK,Poor,1
+66,Male,SK,Very good,3
+67,Female,AB,Excellent,2
+67,Female,AB,Fair,7
+67,Female,AB,Very good,4
+67,Female,BC,Excellent,7
+67,Female,BC,Fair,15
+67,Female,BC,Poor,1
+67,Female,BC,Very good,7
+67,Female,MB,Excellent,4
+67,Female,MB,Fair,8
+67,Female,MB,Very good,4
+67,Female,NB,Excellent,4
+67,Female,NB,Fair,8
+67,Female,NB,Very good,7
+67,Female,NL,Fair,6
+67,Female,NL,Poor,1
+67,Female,NL,Very good,4
+67,Female,NS,Excellent,3
+67,Female,NS,Fair,6
+67,Female,NS,Very good,5
+67,Female,ON,Excellent,12
+67,Female,ON,Fair,19
+67,Female,ON,Poor,6
+67,Female,ON,Very good,13
+67,Female,ON,NA,1
+67,Female,PE,Excellent,2
+67,Female,PE,Fair,4
+67,Female,PE,Very good,4
+67,Female,QC,Excellent,4
+67,Female,QC,Fair,20
+67,Female,QC,Poor,3
+67,Female,QC,Very good,12
+67,Female,SK,Excellent,3
+67,Female,SK,Fair,6
+67,Female,SK,Very good,6
+67,Male,AB,Excellent,4
+67,Male,AB,Fair,2
+67,Male,AB,Very good,5
+67,Male,BC,Excellent,5
+67,Male,BC,Fair,7
+67,Male,BC,Poor,1
+67,Male,BC,Very good,7
+67,Male,MB,Excellent,2
+67,Male,MB,Fair,6
+67,Male,MB,Poor,2
+67,Male,MB,Very good,5
+67,Male,NB,Excellent,3
+67,Male,NB,Fair,5
+67,Male,NB,Very good,2
+67,Male,NL,Excellent,2
+67,Male,NL,Fair,4
+67,Male,NL,Very good,6
+67,Male,NS,Excellent,3
+67,Male,NS,Fair,2
+67,Male,NS,Very good,4
+67,Male,ON,Excellent,3
+67,Male,ON,Fair,20
+67,Male,ON,Poor,1
+67,Male,ON,Very good,14
+67,Male,ON,NA,1
+67,Male,PE,Excellent,1
+67,Male,PE,Fair,4
+67,Male,PE,Very good,4
+67,Male,QC,Excellent,5
+67,Male,QC,Fair,10
+67,Male,QC,Poor,1
+67,Male,QC,Very good,11
+67,Male,SK,Excellent,1
+67,Male,SK,Fair,4
+67,Male,SK,Very good,1
+68,Female,AB,Excellent,1
+68,Female,AB,Fair,6
+68,Female,AB,Very good,7
+68,Female,BC,Excellent,4
+68,Female,BC,Fair,6
+68,Female,BC,Poor,2
+68,Female,BC,Very good,10
+68,Female,BC,NA,1
+68,Female,MB,Excellent,1
+68,Female,MB,Fair,7
+68,Female,MB,Very good,3
+68,Female,NB,Excellent,4
+68,Female,NB,Fair,7
+68,Female,NB,Poor,2
+68,Female,NB,Very good,3
+68,Female,NL,Excellent,1
+68,Female,NL,Fair,9
+68,Female,NL,Very good,6
+68,Female,NL,NA,1
+68,Female,NS,Excellent,3
+68,Female,NS,Fair,9
+68,Female,NS,Poor,2
+68,Female,NS,Very good,8
+68,Female,ON,Excellent,5
+68,Female,ON,Fair,27
+68,Female,ON,Poor,2
+68,Female,ON,Very good,20
+68,Female,PE,Excellent,2
+68,Female,PE,Fair,5
+68,Female,PE,Very good,2
+68,Female,QC,Excellent,16
+68,Female,QC,Fair,15
+68,Female,QC,Poor,2
+68,Female,QC,Very good,11
+68,Female,SK,Excellent,2
+68,Female,SK,Fair,3
+68,Female,SK,Poor,2
+68,Female,SK,Very good,2
+68,Male,AB,Excellent,5
+68,Male,AB,Fair,8
+68,Male,AB,Poor,1
+68,Male,AB,Very good,1
+68,Male,BC,Excellent,6
+68,Male,BC,Fair,10
+68,Male,BC,Poor,3
+68,Male,BC,Very good,13
+68,Male,MB,Excellent,1
+68,Male,MB,Fair,5
+68,Male,MB,Very good,2
+68,Male,NB,Excellent,1
+68,Male,NB,Fair,9
+68,Male,NB,Poor,2
+68,Male,NB,Very good,2
+68,Male,NL,Excellent,3
+68,Male,NL,Fair,6
+68,Male,NL,Poor,1
+68,Male,NL,Very good,3
+68,Male,NS,Excellent,1
+68,Male,NS,Fair,7
+68,Male,NS,Poor,1
+68,Male,NS,Very good,1
+68,Male,ON,Excellent,14
+68,Male,ON,Fair,25
+68,Male,ON,Poor,3
+68,Male,ON,Very good,9
+68,Male,PE,Excellent,1
+68,Male,PE,Fair,3
+68,Male,PE,Poor,2
+68,Male,PE,Very good,1
+68,Male,QC,Excellent,9
+68,Male,QC,Fair,9
+68,Male,QC,Very good,19
+68,Male,QC,NA,1
+68,Male,SK,Excellent,1
+68,Male,SK,Fair,3
+68,Male,SK,Very good,5
+69,Female,AB,Excellent,2
+69,Female,AB,Fair,8
+69,Female,AB,Poor,1
+69,Female,AB,Very good,4
+69,Female,BC,Excellent,13
+69,Female,BC,Fair,10
+69,Female,BC,Poor,1
+69,Female,BC,Very good,4
+69,Female,MB,Fair,12
+69,Female,MB,Very good,5
+69,Female,NB,Excellent,2
+69,Female,NB,Fair,10
+69,Female,NB,Poor,2
+69,Female,NB,Very good,5
+69,Female,NL,Excellent,3
+69,Female,NL,Fair,9
+69,Female,NS,Excellent,3
+69,Female,NS,Fair,11
+69,Female,NS,Poor,2
+69,Female,NS,Very good,4
+69,Female,ON,Excellent,12
+69,Female,ON,Fair,25
+69,Female,ON,Poor,2
+69,Female,ON,Very good,23
+69,Female,PE,Fair,4
+69,Female,PE,Poor,1
+69,Female,PE,Very good,3
+69,Female,QC,Excellent,5
+69,Female,QC,Fair,23
+69,Female,QC,Poor,2
+69,Female,QC,Very good,13
+69,Female,SK,Excellent,2
+69,Female,SK,Fair,4
+69,Female,SK,Poor,2
+69,Female,SK,Very good,3
+69,Male,AB,Excellent,2
+69,Male,AB,Fair,5
+69,Male,AB,Poor,1
+69,Male,AB,Very good,5
+69,Male,BC,Excellent,3
+69,Male,BC,Fair,11
+69,Male,BC,Poor,3
+69,Male,BC,Very good,7
+69,Male,BC,NA,1
+69,Male,MB,Excellent,1
+69,Male,MB,Fair,4
+69,Male,MB,Very good,4
+69,Male,NB,Excellent,2
+69,Male,NB,Fair,6
+69,Male,NB,Very good,3
+69,Male,NL,Fair,4
+69,Male,NL,Very good,2
+69,Male,NS,Excellent,1
+69,Male,NS,Fair,4
+69,Male,NS,Poor,2
+69,Male,NS,Very good,9
+69,Male,ON,Excellent,13
+69,Male,ON,Fair,20
+69,Male,ON,Poor,3
+69,Male,ON,Very good,14
+69,Male,PE,Excellent,1
+69,Male,PE,Fair,1
+69,Male,QC,Excellent,5
+69,Male,QC,Fair,12
+69,Male,QC,Poor,2
+69,Male,QC,Very good,16
+69,Male,SK,Excellent,1
+69,Male,SK,Fair,4
+69,Male,SK,Poor,2
+69,Male,SK,Very good,1
+69,Male,SK,NA,1
+70,Female,AB,Excellent,4
+70,Female,AB,Fair,6
+70,Female,AB,Poor,1
+70,Female,AB,Very good,3
+70,Female,BC,Excellent,2
+70,Female,BC,Fair,13
+70,Female,BC,Poor,2
+70,Female,BC,Very good,9
+70,Female,MB,Excellent,1
+70,Female,MB,Fair,6
+70,Female,MB,Very good,9
+70,Female,NB,Fair,7
+70,Female,NB,Other,1
+70,Female,NB,Poor,3
+70,Female,NB,Very good,5
+70,Female,NL,Excellent,2
+70,Female,NL,Fair,5
+70,Female,NL,Poor,3
+70,Female,NL,Very good,2
+70,Female,NS,Excellent,2
+70,Female,NS,Fair,5
+70,Female,NS,Poor,1
+70,Female,NS,Very good,4
+70,Female,ON,Excellent,12
+70,Female,ON,Fair,28
+70,Female,ON,Poor,4
+70,Female,ON,Very good,19
+70,Female,PE,Excellent,1
+70,Female,PE,Fair,1
+70,Female,PE,Poor,1
+70,Female,PE,Very good,5
+70,Female,QC,Excellent,2
+70,Female,QC,Fair,20
+70,Female,QC,Poor,3
+70,Female,QC,Very good,11
+70,Female,SK,Excellent,2
+70,Female,SK,Fair,3
+70,Female,SK,Very good,3
+70,Male,AB,Excellent,2
+70,Male,AB,Fair,5
+70,Male,AB,Very good,5
+70,Male,BC,Excellent,5
+70,Male,BC,Fair,11
+70,Male,BC,Poor,1
+70,Male,BC,Very good,3
+70,Male,MB,Excellent,1
+70,Male,MB,Fair,9
+70,Male,MB,Poor,1
+70,Male,MB,Very good,1
+70,Male,NB,Excellent,2
+70,Male,NB,Fair,7
+70,Male,NB,Poor,2
+70,Male,NB,Very good,1
+70,Male,NB,NA,2
+70,Male,NL,Fair,3
+70,Male,NL,Very good,4
+70,Male,NS,Excellent,1
+70,Male,NS,Fair,7
+70,Male,NS,Other,1
+70,Male,NS,Very good,5
+70,Male,ON,Excellent,7
+70,Male,ON,Fair,25
+70,Male,ON,Poor,6
+70,Male,ON,Very good,16
+70,Male,ON,NA,1
+70,Male,PE,Excellent,1
+70,Male,PE,Fair,3
+70,Male,QC,Excellent,5
+70,Male,QC,Fair,13
+70,Male,QC,Poor,2
+70,Male,QC,Very good,8
+70,Male,SK,Excellent,3
+70,Male,SK,Fair,2
+70,Male,SK,Poor,3
+70,Male,SK,Very good,2
+71,Female,AB,Fair,4
+71,Female,AB,Poor,1
+71,Female,AB,Very good,4
+71,Female,BC,Excellent,6
+71,Female,BC,Fair,9
+71,Female,BC,Poor,1
+71,Female,BC,Very good,10
+71,Female,MB,Excellent,1
+71,Female,MB,Fair,4
+71,Female,MB,Very good,1
+71,Female,NB,Excellent,3
+71,Female,NB,Fair,6
+71,Female,NB,Poor,2
+71,Female,NB,Very good,1
+71,Female,NL,Excellent,3
+71,Female,NL,Fair,4
+71,Female,NL,Very good,5
+71,Female,NS,Excellent,1
+71,Female,NS,Fair,10
+71,Female,NS,Poor,2
+71,Female,NS,Very good,3
+71,Female,ON,Excellent,10
+71,Female,ON,Fair,23
+71,Female,ON,Poor,1
+71,Female,ON,Very good,10
+71,Female,ON,NA,1
+71,Female,PE,Fair,3
+71,Female,PE,Very good,4
+71,Female,QC,Excellent,9
+71,Female,QC,Fair,22
+71,Female,QC,Poor,1
+71,Female,QC,Very good,10
+71,Female,SK,Excellent,1
+71,Female,SK,Fair,4
+71,Female,SK,Very good,4
+71,Male,AB,Fair,4
+71,Male,AB,Very good,1
+71,Male,BC,Excellent,5
+71,Male,BC,Fair,8
+71,Male,BC,Poor,1
+71,Male,BC,Very good,8
+71,Male,MB,Excellent,1
+71,Male,MB,Fair,1
+71,Male,MB,Poor,1
+71,Male,MB,Very good,3
+71,Male,NB,Excellent,3
+71,Male,NB,Fair,4
+71,Male,NB,Very good,6
+71,Male,NL,Excellent,2
+71,Male,NL,Fair,5
+71,Male,NL,Poor,1
+71,Male,NL,Very good,2
+71,Male,NS,Excellent,2
+71,Male,NS,Fair,9
+71,Male,NS,Poor,2
+71,Male,NS,Very good,3
+71,Male,ON,Excellent,8
+71,Male,ON,Fair,19
+71,Male,ON,Poor,4
+71,Male,ON,Very good,15
+71,Male,PE,Fair,3
+71,Male,PE,Poor,1
+71,Male,PE,Very good,2
+71,Male,QC,Excellent,2
+71,Male,QC,Fair,16
+71,Male,QC,Poor,1
+71,Male,QC,Very good,10
+71,Male,SK,Fair,5
+71,Male,SK,Very good,2
+72,Female,AB,Fair,6
+72,Female,AB,Poor,1
+72,Female,AB,Very good,1
+72,Female,BC,Excellent,1
+72,Female,BC,Fair,6
+72,Female,BC,Very good,4
+72,Female,MB,Excellent,1
+72,Female,MB,Fair,5
+72,Female,MB,Very good,3
+72,Female,NB,Fair,5
+72,Female,NB,Very good,6
+72,Female,NL,Excellent,1
+72,Female,NL,Very good,8
+72,Female,NS,Excellent,3
+72,Female,NS,Fair,8
+72,Female,NS,Very good,6
+72,Female,ON,Excellent,9
+72,Female,ON,Fair,24
+72,Female,ON,Poor,4
+72,Female,ON,Very good,13
+72,Female,PE,Excellent,2
+72,Female,PE,Fair,2
+72,Female,PE,Very good,3
+72,Female,QC,Excellent,6
+72,Female,QC,Fair,20
+72,Female,QC,Poor,2
+72,Female,QC,Very good,10
+72,Female,QC,NA,1
+72,Female,SK,Excellent,1
+72,Female,SK,Fair,6
+72,Female,SK,Very good,4
+72,Male,AB,Excellent,1
+72,Male,AB,Fair,7
+72,Male,AB,Poor,2
+72,Male,AB,Very good,2
+72,Male,BC,Excellent,2
+72,Male,BC,Fair,7
+72,Male,BC,Very good,6
+72,Male,MB,Excellent,2
+72,Male,MB,Fair,3
+72,Male,MB,Very good,3
+72,Male,MB,NA,1
+72,Male,NB,Fair,7
+72,Male,NB,Very good,2
+72,Male,NL,Excellent,2
+72,Male,NL,Fair,1
+72,Male,NL,Poor,1
+72,Male,NL,Very good,1
+72,Male,NS,Fair,5
+72,Male,NS,Poor,2
+72,Male,NS,Very good,3
+72,Male,ON,Excellent,5
+72,Male,ON,Fair,10
+72,Male,ON,Poor,4
+72,Male,ON,Very good,6
+72,Male,PE,Excellent,1
+72,Male,PE,Fair,1
+72,Male,PE,Poor,1
+72,Male,PE,Very good,2
+72,Male,QC,Excellent,2
+72,Male,QC,Fair,5
+72,Male,QC,Poor,2
+72,Male,QC,Very good,7
+72,Male,SK,Excellent,1
+72,Male,SK,Fair,7
+72,Male,SK,Very good,2
+73,Female,AB,Excellent,2
+73,Female,AB,Fair,6
+73,Female,AB,Very good,4
+73,Female,BC,Excellent,5
+73,Female,BC,Fair,11
+73,Female,BC,Other,1
+73,Female,BC,Poor,1
+73,Female,BC,Very good,3
+73,Female,MB,Excellent,1
+73,Female,MB,Fair,2
+73,Female,MB,Very good,2
+73,Female,NB,Excellent,1
+73,Female,NB,Fair,7
+73,Female,NB,Very good,1
+73,Female,NL,Excellent,1
+73,Female,NL,Fair,4
+73,Female,NL,Very good,1
+73,Female,NS,Excellent,1
+73,Female,NS,Fair,8
+73,Female,NS,Poor,1
+73,Female,NS,Very good,2
+73,Female,ON,Excellent,10
+73,Female,ON,Fair,28
+73,Female,ON,Other,1
+73,Female,ON,Poor,2
+73,Female,ON,Very good,13
+73,Female,PE,Fair,1
+73,Female,PE,Poor,2
+73,Female,PE,Very good,6
+73,Female,QC,Excellent,4
+73,Female,QC,Fair,20
+73,Female,QC,Very good,5
+73,Female,SK,Excellent,1
+73,Female,SK,Fair,5
+73,Female,SK,Poor,1
+73,Male,AB,Excellent,1
+73,Male,AB,Fair,2
+73,Male,AB,Very good,4
+73,Male,BC,Fair,5
+73,Male,BC,Poor,1
+73,Male,BC,Very good,9
+73,Male,MB,Excellent,1
+73,Male,MB,Fair,5
+73,Male,MB,Very good,2
+73,Male,NB,Excellent,2
+73,Male,NB,Fair,5
+73,Male,NB,Poor,1
+73,Male,NB,Very good,4
+73,Male,NL,Fair,4
+73,Male,NL,Very good,1
+73,Male,NS,Excellent,1
+73,Male,NS,Fair,5
+73,Male,NS,Very good,3
+73,Male,ON,Excellent,5
+73,Male,ON,Fair,13
+73,Male,ON,Very good,9
+73,Male,PE,Excellent,1
+73,Male,PE,Fair,1
+73,Male,PE,Very good,3
+73,Male,QC,Fair,15
+73,Male,QC,Poor,1
+73,Male,QC,Very good,4
+73,Male,SK,Fair,2
+73,Male,SK,Very good,5
+74,Female,AB,Excellent,3
+74,Female,AB,Fair,4
+74,Female,AB,Poor,1
+74,Female,AB,Very good,3
+74,Female,BC,Excellent,4
+74,Female,BC,Fair,6
+74,Female,BC,Very good,4
+74,Female,MB,Excellent,2
+74,Female,MB,Fair,3
+74,Female,MB,Poor,1
+74,Female,MB,Very good,1
+74,Female,NB,Excellent,1
+74,Female,NB,Fair,8
+74,Female,NB,Poor,3
+74,Female,NB,Very good,2
+74,Female,NL,Fair,3
+74,Female,NL,Poor,1
+74,Female,NL,Very good,6
+74,Female,NS,Excellent,3
+74,Female,NS,Fair,7
+74,Female,NS,Very good,4
+74,Female,ON,Excellent,2
+74,Female,ON,Fair,14
+74,Female,ON,Poor,2
+74,Female,ON,Very good,16
+74,Female,PE,Excellent,1
+74,Female,PE,Fair,3
+74,Female,PE,Very good,3
+74,Female,QC,Excellent,6
+74,Female,QC,Fair,14
+74,Female,QC,Poor,4
+74,Female,QC,Very good,5
+74,Female,SK,Excellent,1
+74,Female,SK,Fair,5
+74,Female,SK,Very good,1
+74,Male,AB,Excellent,3
+74,Male,AB,Fair,6
+74,Male,AB,Very good,2
+74,Male,BC,Excellent,4
+74,Male,BC,Fair,7
+74,Male,BC,Poor,2
+74,Male,BC,Very good,8
+74,Male,BC,NA,1
+74,Male,MB,Fair,4
+74,Male,MB,Very good,3
+74,Male,NB,Excellent,1
+74,Male,NB,Fair,5
+74,Male,NB,Very good,2
+74,Male,NL,Excellent,1
+74,Male,NL,Fair,1
+74,Male,NL,Very good,3
+74,Male,NS,Excellent,2
+74,Male,NS,Fair,1
+74,Male,ON,Excellent,2
+74,Male,ON,Fair,19
+74,Male,ON,Other,1
+74,Male,ON,Poor,1
+74,Male,ON,Very good,10
+74,Male,PE,Fair,1
+74,Male,QC,Excellent,4
+74,Male,QC,Fair,14
+74,Male,QC,Very good,7
+74,Male,SK,Excellent,1
+74,Male,SK,Fair,1
+75,Female,AB,Fair,6
+75,Female,AB,Poor,1
+75,Female,AB,Very good,1
+75,Female,BC,Excellent,5
+75,Female,BC,Fair,6
+75,Female,BC,Poor,1
+75,Female,BC,Very good,7
+75,Female,BC,NA,1
+75,Female,MB,Excellent,2
+75,Female,MB,Fair,3
+75,Female,MB,Very good,2
+75,Female,NB,Fair,2
+75,Female,NB,Very good,2
+75,Female,NL,Fair,3
+75,Female,NL,Other,1
+75,Female,NL,Very good,5
+75,Female,NS,Poor,1
+75,Female,NS,Very good,3
+75,Female,ON,Excellent,5
+75,Female,ON,Fair,15
+75,Female,ON,Poor,3
+75,Female,ON,Very good,10
+75,Female,PE,Excellent,1
+75,Female,PE,Fair,2
+75,Female,PE,Very good,3
+75,Female,QC,Excellent,3
+75,Female,QC,Fair,13
+75,Female,QC,Poor,1
+75,Female,QC,Very good,10
+75,Female,SK,Excellent,1
+75,Female,SK,Fair,5
+75,Female,SK,Poor,1
+75,Female,SK,Very good,1
+75,Male,AB,Excellent,2
+75,Male,AB,Fair,4
+75,Male,AB,Poor,1
+75,Male,AB,Very good,2
+75,Male,BC,Excellent,4
+75,Male,BC,Fair,9
+75,Male,BC,Poor,1
+75,Male,BC,Very good,4
+75,Male,MB,Excellent,3
+75,Male,MB,Fair,4
+75,Male,MB,Poor,1
+75,Male,NB,Fair,7
+75,Male,NL,Fair,6
+75,Male,NL,Poor,1
+75,Male,NS,Fair,5
+75,Male,NS,Poor,2
+75,Male,NS,Very good,6
+75,Male,ON,Excellent,2
+75,Male,ON,Fair,15
+75,Male,ON,Poor,2
+75,Male,ON,Very good,10
+75,Male,PE,Fair,1
+75,Male,PE,Very good,1
+75,Male,QC,Excellent,3
+75,Male,QC,Fair,10
+75,Male,QC,Poor,2
+75,Male,QC,Very good,9
+75,Male,SK,Fair,6
+75,Male,SK,Poor,1
+75,Male,SK,Very good,1
+76,Female,AB,Excellent,2
+76,Female,AB,Fair,5
+76,Female,AB,Poor,1
+76,Female,AB,Very good,1
+76,Female,BC,Excellent,1
+76,Female,BC,Fair,5
+76,Female,BC,Poor,1
+76,Female,BC,Very good,6
+76,Female,MB,Fair,3
+76,Female,MB,Very good,3
+76,Female,NB,Excellent,3
+76,Female,NB,Fair,9
+76,Female,NB,Poor,1
+76,Female,NB,Very good,5
+76,Female,NL,Excellent,1
+76,Female,NL,Fair,4
+76,Female,NL,Very good,4
+76,Female,NS,Excellent,3
+76,Female,NS,Fair,5
+76,Female,NS,Very good,1
+76,Female,ON,Excellent,5
+76,Female,ON,Fair,19
+76,Female,ON,Poor,1
+76,Female,ON,Very good,14
+76,Female,PE,Fair,2
+76,Female,PE,Poor,1
+76,Female,QC,Excellent,3
+76,Female,QC,Fair,17
+76,Female,QC,Poor,1
+76,Female,QC,Very good,10
+76,Female,SK,Excellent,2
+76,Female,SK,Fair,3
+76,Female,SK,Very good,1
+76,Male,AB,Excellent,1
+76,Male,AB,Very good,1
+76,Male,BC,Excellent,3
+76,Male,BC,Fair,7
+76,Male,BC,Poor,5
+76,Male,BC,Very good,2
+76,Male,MB,Fair,8
+76,Male,MB,Poor,1
+76,Male,MB,Very good,1
+76,Male,NB,Fair,1
+76,Male,NB,Poor,1
+76,Male,NB,Very good,2
+76,Male,NL,Fair,2
+76,Male,NL,Very good,4
+76,Male,NS,Excellent,1
+76,Male,NS,Fair,4
+76,Male,NS,Poor,2
+76,Male,NS,Very good,1
+76,Male,ON,Excellent,8
+76,Male,ON,Fair,10
+76,Male,ON,Poor,1
+76,Male,ON,Very good,4
+76,Male,ON,NA,1
+76,Male,PE,Fair,4
+76,Male,PE,Very good,1
+76,Male,QC,Excellent,4
+76,Male,QC,Fair,11
+76,Male,QC,Very good,9
+76,Male,SK,Fair,2
+76,Male,SK,Very good,3
+77,Female,AB,Excellent,4
+77,Female,AB,Fair,5
+77,Female,AB,Very good,1
+77,Female,BC,Fair,8
+77,Female,BC,Other,1
+77,Female,BC,Poor,2
+77,Female,BC,Very good,1
+77,Female,BC,NA,1
+77,Female,MB,Excellent,3
+77,Female,MB,Fair,3
+77,Female,MB,Very good,2
+77,Female,NB,Fair,1
+77,Female,NB,Other,1
+77,Female,NB,Very good,1
+77,Female,NL,Very good,1
+77,Female,NS,Fair,8
+77,Female,NS,Poor,1
+77,Female,NS,Very good,2
+77,Female,ON,Excellent,3
+77,Female,ON,Fair,14
+77,Female,ON,Very good,19
+77,Female,PE,Fair,2
+77,Female,PE,Very good,3
+77,Female,QC,Excellent,2
+77,Female,QC,Fair,16
+77,Female,QC,Poor,1
+77,Female,QC,Very good,3
+77,Female,SK,Excellent,1
+77,Female,SK,Fair,1
+77,Female,SK,Poor,2
+77,Female,SK,Very good,2
+77,Male,AB,Excellent,1
+77,Male,AB,Fair,5
+77,Male,AB,Very good,3
+77,Male,BC,Excellent,1
+77,Male,BC,Fair,5
+77,Male,BC,Poor,1
+77,Male,BC,Very good,7
+77,Male,MB,Fair,6
+77,Male,MB,Poor,1
+77,Male,MB,Very good,2
+77,Male,NB,Fair,4
+77,Male,NB,Very good,2
+77,Male,NL,Excellent,1
+77,Male,NL,Fair,1
+77,Male,NL,Very good,4
+77,Male,NS,Excellent,1
+77,Male,NS,Fair,3
+77,Male,NS,Very good,1
+77,Male,ON,Excellent,3
+77,Male,ON,Fair,14
+77,Male,ON,Very good,2
+77,Male,PE,Excellent,2
+77,Male,PE,Very good,1
+77,Male,QC,Excellent,2
+77,Male,QC,Fair,3
+77,Male,QC,Poor,2
+77,Male,QC,Very good,2
+77,Male,SK,Fair,5
+77,Male,SK,Poor,1
+77,Male,SK,Very good,1
+78,Female,AB,Excellent,1
+78,Female,AB,Fair,2
+78,Female,AB,Other,1
+78,Female,AB,Poor,1
+78,Female,AB,Very good,1
+78,Female,BC,Excellent,2
+78,Female,BC,Fair,6
+78,Female,BC,Poor,1
+78,Female,BC,Very good,4
+78,Female,MB,Excellent,2
+78,Female,MB,Fair,5
+78,Female,MB,Poor,1
+78,Female,MB,Very good,1
+78,Female,NB,Excellent,1
+78,Female,NB,Fair,5
+78,Female,NB,Poor,1
+78,Female,NB,Very good,4
+78,Female,NL,Excellent,1
+78,Female,NL,Fair,2
+78,Female,NL,Poor,1
+78,Female,NL,Very good,1
+78,Female,NS,Excellent,2
+78,Female,NS,Fair,4
+78,Female,NS,Very good,1
+78,Female,ON,Excellent,3
+78,Female,ON,Fair,14
+78,Female,ON,Poor,2
+78,Female,ON,Very good,13
+78,Female,ON,NA,1
+78,Female,PE,Fair,1
+78,Female,PE,Poor,1
+78,Female,QC,Excellent,3
+78,Female,QC,Fair,13
+78,Female,QC,Very good,4
+78,Female,SK,Fair,4
+78,Female,SK,Very good,2
+78,Male,AB,Fair,3
+78,Male,AB,Poor,2
+78,Male,AB,Very good,2
+78,Male,BC,Fair,4
+78,Male,BC,Poor,1
+78,Male,BC,Very good,2
+78,Male,MB,Fair,2
+78,Male,MB,Poor,2
+78,Male,NB,Excellent,2
+78,Male,NB,Fair,1
+78,Male,NB,Very good,2
+78,Male,NL,Poor,1
+78,Male,NS,Fair,3
+78,Male,NS,Poor,1
+78,Male,NS,Very good,2
+78,Male,NS,NA,1
+78,Male,ON,Excellent,4
+78,Male,ON,Fair,15
+78,Male,ON,Other,1
+78,Male,ON,Poor,3
+78,Male,ON,Very good,5
+78,Male,PE,Fair,1
+78,Male,PE,Very good,1
+78,Male,QC,Excellent,3
+78,Male,QC,Fair,10
+78,Male,QC,Very good,7
+78,Male,SK,Excellent,1
+78,Male,SK,Fair,2
+78,Male,SK,Poor,2
+79,Female,AB,Excellent,1
+79,Female,AB,Fair,3
+79,Female,BC,Excellent,3
+79,Female,BC,Fair,7
+79,Female,BC,Poor,1
+79,Female,BC,Very good,2
+79,Female,MB,Fair,3
+79,Female,MB,Very good,4
+79,Female,NB,Excellent,1
+79,Female,NB,Fair,4
+79,Female,NB,Poor,3
+79,Female,NB,Very good,4
+79,Female,NL,Fair,1
+79,Female,NL,Very good,2
+79,Female,NS,Excellent,1
+79,Female,NS,Fair,5
+79,Female,NS,Very good,3
+79,Female,ON,Excellent,4
+79,Female,ON,Fair,21
+79,Female,ON,Poor,3
+79,Female,ON,Very good,10
+79,Female,PE,Excellent,1
+79,Female,PE,Very good,3
+79,Female,QC,Excellent,1
+79,Female,QC,Fair,8
+79,Female,QC,Poor,1
+79,Female,QC,Very good,8
+79,Female,SK,Fair,6
+79,Female,SK,Poor,1
+79,Female,SK,Very good,4
+79,Male,AB,Fair,4
+79,Male,BC,Excellent,2
+79,Male,BC,Fair,1
+79,Male,BC,Other,1
+79,Male,BC,Very good,3
+79,Male,MB,Excellent,1
+79,Male,MB,Fair,4
+79,Male,MB,Very good,2
+79,Male,NB,Excellent,1
+79,Male,NB,Fair,2
+79,Male,NB,Poor,1
+79,Male,NB,Very good,1
+79,Male,NL,Fair,4
+79,Male,NS,Excellent,2
+79,Male,NS,Fair,3
+79,Male,NS,Very good,2
+79,Male,ON,Excellent,2
+79,Male,ON,Fair,8
+79,Male,ON,Other,1
+79,Male,ON,Poor,2
+79,Male,ON,Very good,4
+79,Male,PE,Poor,1
+79,Male,PE,Very good,1
+79,Male,QC,Excellent,2
+79,Male,QC,Fair,9
+79,Male,QC,Poor,1
+79,Male,QC,Very good,3
+79,Male,SK,Excellent,1
+79,Male,SK,Fair,3
+79,Male,SK,Very good,1
+80,Female,AB,Excellent,3
+80,Female,AB,Fair,17
+80,Female,AB,Poor,5
+80,Female,AB,Very good,11
+80,Female,AB,NA,1
+80,Female,BC,Excellent,14
+80,Female,BC,Fair,55
+80,Female,BC,Poor,6
+80,Female,BC,Very good,35
+80,Female,MB,Excellent,2
+80,Female,MB,Fair,31
+80,Female,MB,Poor,4
+80,Female,MB,Very good,13
+80,Female,MB,NA,1
+80,Female,NB,Excellent,7
+80,Female,NB,Fair,27
+80,Female,NB,Other,1
+80,Female,NB,Poor,1
+80,Female,NB,Very good,11
+80,Female,NB,NA,1
+80,Female,NL,Excellent,2
+80,Female,NL,Fair,7
+80,Female,NL,Other,2
+80,Female,NL,Poor,4
+80,Female,NL,Very good,14
+80,Female,NS,Excellent,4
+80,Female,NS,Fair,32
+80,Female,NS,Poor,4
+80,Female,NS,Very good,11
+80,Female,ON,Excellent,25
+80,Female,ON,Fair,92
+80,Female,ON,Other,2
+80,Female,ON,Poor,10
+80,Female,ON,Very good,63
+80,Female,PE,Excellent,3
+80,Female,PE,Fair,21
+80,Female,PE,Poor,1
+80,Female,PE,Very good,12
+80,Female,QC,Excellent,14
+80,Female,QC,Fair,85
+80,Female,QC,Poor,7
+80,Female,QC,Very good,24
+80,Female,QC,NA,1
+80,Female,SK,Excellent,9
+80,Female,SK,Fair,33
+80,Female,SK,Poor,3
+80,Female,SK,Very good,15
+80,Male,AB,Excellent,1
+80,Male,AB,Fair,17
+80,Male,AB,Poor,1
+80,Male,AB,Very good,5
+80,Male,BC,Excellent,9
+80,Male,BC,Fair,37
+80,Male,BC,Poor,5
+80,Male,BC,Very good,21
+80,Male,MB,Excellent,7
+80,Male,MB,Fair,24
+80,Male,MB,Poor,3
+80,Male,MB,Very good,3
+80,Male,NB,Excellent,1
+80,Male,NB,Fair,17
+80,Male,NB,Other,1
+80,Male,NB,Poor,2
+80,Male,NB,Very good,6
+80,Male,NL,Excellent,2
+80,Male,NL,Fair,6
+80,Male,NL,Other,1
+80,Male,NL,Very good,8
+80,Male,NS,Excellent,4
+80,Male,NS,Fair,17
+80,Male,NS,Other,1
+80,Male,NS,Poor,3
+80,Male,NS,Very good,8
+80,Male,ON,Excellent,11
+80,Male,ON,Fair,69
+80,Male,ON,Other,2
+80,Male,ON,Poor,11
+80,Male,ON,Very good,29
+80,Male,ON,NA,2
+80,Male,PE,Fair,5
+80,Male,PE,Very good,2
+80,Male,QC,Excellent,10
+80,Male,QC,Fair,38
+80,Male,QC,Other,1
+80,Male,QC,Poor,4
+80,Male,QC,Very good,10
+80,Male,SK,Excellent,1
+80,Male,SK,Fair,21
+80,Male,SK,Other,1
+80,Male,SK,Poor,3
+80,Male,SK,Very good,5
